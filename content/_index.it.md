@@ -13,7 +13,7 @@ description: "Questa pagina è stata creata utilizzando il tema Blowfish per Hug
       class="px-4 !text-neutral !no-underline round-md bg-primary-600 hover:!bg-primary-500 dark:bg-primary-800 dark:hover:!bg-primary-700"
     >
       Cambia layout &orarr;
-    </pulsante>
+    </pulsante> 
   </span>
 </div>
 
@@ -22,4 +22,4 @@ description: "Questa pagina è stata creata utilizzando il tema Blowfish per Hug
 npx blowfish-tools
 ```  
 
-{{< youtubeLite id="SgXhGb-7QbU" label="Demo degli strumenti Blowfish" >}}
+{{< youtubeLite id="rI0tbffpidA" label="Demo degli strumenti Blowfish" >}}

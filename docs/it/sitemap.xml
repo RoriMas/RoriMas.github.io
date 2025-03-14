@@ -494,13 +494,13 @@
     />
     <xhtml:link
       rel="alternate"
-      hreflang="ja"
-      href="http://localhost:1313/ja/authors/"
+      hreflang="zh-cn"
+      href="http://localhost:1313/zh-cn/authors/"
     />
     <xhtml:link
       rel="alternate"
-      hreflang="zh-cn"
-      href="http://localhost:1313/zh-cn/authors/"
+      hreflang="ja"
+      href="http://localhost:1313/ja/authors/"
     />
     <xhtml:link
       rel="alternate"
@@ -666,13 +666,13 @@
     />
     <xhtml:link
       rel="alternate"
-      hreflang="ja"
-      href="http://localhost:1313/ja/examples/"
+      hreflang="zh-cn"
+      href="http://localhost:1313/zh-cn/examples/"
     />
     <xhtml:link
       rel="alternate"
-      hreflang="zh-cn"
-      href="http://localhost:1313/zh-cn/examples/"
+      hreflang="ja"
+      href="http://localhost:1313/ja/examples/"
     />
     <xhtml:link
       rel="alternate"
@@ -739,13 +739,13 @@
     />
     <xhtml:link
       rel="alternate"
-      hreflang="ja"
-      href="http://localhost:1313/ja/samples/multiple-authors/"
+      hreflang="zh-cn"
+      href="http://localhost:1313/zh-cn/samples/multiple-authors/"
     />
     <xhtml:link
       rel="alternate"
-      hreflang="zh-cn"
-      href="http://localhost:1313/zh-cn/samples/multiple-authors/"
+      hreflang="ja"
+      href="http://localhost:1313/ja/samples/multiple-authors/"
     />
     <xhtml:link
       rel="alternate"
@@ -912,13 +912,13 @@
     />
     <xhtml:link
       rel="alternate"
-      hreflang="ja"
-      href="http://localhost:1313/ja/docs/"
+      hreflang="zh-cn"
+      href="http://localhost:1313/zh-cn/docs/"
     />
     <xhtml:link
       rel="alternate"
-      hreflang="zh-cn"
-      href="http://localhost:1313/zh-cn/docs/"
+      hreflang="ja"
+      href="http://localhost:1313/ja/docs/"
     />
     <xhtml:link
       rel="alternate"
@@ -1616,13 +1616,13 @@
     />
     <xhtml:link
       rel="alternate"
-      hreflang="ja"
-      href="http://localhost:1313/ja/samples/emoji/"
+      hreflang="zh-cn"
+      href="http://localhost:1313/zh-cn/samples/emoji/"
     />
     <xhtml:link
       rel="alternate"
-      hreflang="zh-cn"
-      href="http://localhost:1313/zh-cn/samples/emoji/"
+      hreflang="ja"
+      href="http://localhost:1313/ja/samples/emoji/"
     />
     <xhtml:link
       rel="alternate"

@@ -24,6 +24,6 @@ description: "This page was built using the Blowfish theme for Hugo."
 npx blowfish-tools
 ```  
 
-{{< youtubeLite id="SgXhGb-7QbU" label="Blowfish-tools demo" >}}
+{{< youtubeLite id="rI0tbffpidA" label="Blowfish-tools demo" >}}
 
 

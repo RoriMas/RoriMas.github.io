@@ -1,7 +1,7 @@
 languageCode = "it"
 languageName = "Italiano"
 weight = 2
-title = "Blowfish"
+title = "Scuola di nuove tecnologie dellarte"
 
 [params]
   displayName = "Italiano"
@@ -9,13 +9,13 @@ title = "Blowfish"
   rtl = false
   dateFormat = "2 January 2006"
   logo = "img/blowfish_logo_transparent.png"
-  description = "Un potente, leggero tema per Hugo."
+  description = "Triennio Nuovi linguaggi della comunicazione"
 
 [params.author]
-  name = "Blowfish"
+  name = "Scuola di nuove tecnologie dellarte"
   image = "img/blowfish_logo.png"
-  headline = "Un potente, leggero tema per Hugo."
-  bio = "Un potente, leggero tema per Hugo."
+  headline = "Triennio Nuovi linguaggi della comunicazione"
+  bio = "Triennio Nuovi linguaggi della comunicazione"
   links = [
     { x-twitter = "https://twitter.com/burufugu" },
     { github = "https://github.com/nunocoracao/blowfish" },
