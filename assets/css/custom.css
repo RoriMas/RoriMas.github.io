@@ -1,5 +1,5 @@
 @font-face {
-  font-family: "Questrial", sans-serif;
+  font-family: "questrial", sans-serif;
   font-weight: 400;
   font-style: normal;
   src: url("/fonts/questrial-regular.ttf") format("woff2"),
@@ -7,7 +7,7 @@
 }
 
 html {
-  font-family: "Questrial", sans-serif;
+  font-family: "questrial", sans-serif;
   font-weight: 400;
   font-style: normal;
 }
