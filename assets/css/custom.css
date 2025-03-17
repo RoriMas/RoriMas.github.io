@@ -2,8 +2,8 @@
   font-family: "Questrial", sans-serif;
   font-weight: 400;
   font-style: normal;
-  src: url("/fonts/questrial-regular-webfont.woff2") format("woff2"),
-    url("/fonts/questrial-regular-webfont.woff") format("woff");
+  src: url("/fonts/questrial-regular.ttf") format("woff2"),
+    url("/fonts/questrial-regular.ttf") format("woff");
 }
 
 html {
