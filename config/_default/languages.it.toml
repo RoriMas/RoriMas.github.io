@@ -1,7 +1,7 @@
 languageCode = "it"
 languageName = "Italiano"
-weight = 2
-title = "Scuola di nuove tecnologie dellarte"
+weight = 1
+title = "Scuola di nuove tecnologie dell'arte"
 
 [params]
   displayName = "Italiano"
@@ -12,7 +12,7 @@ title = "Scuola di nuove tecnologie dellarte"
   description = "Triennio Nuovi linguaggi della comunicazione"
 
 [params.author]
-  name = "Scuola di nuove tecnologie dellarte"
+  name = "Scuola di nuove tecnologie dell'arte"
   image = "img/blowfish_logo.png"
   headline = "Triennio Nuovi linguaggi della comunicazione"
   bio = "Triennio Nuovi linguaggi della comunicazione"

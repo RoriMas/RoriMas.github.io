@@ -4,7 +4,7 @@
 
 theme = "blowfish"
 baseURL = "https://rorimas.github.io"
-defaultContentLanguage = "en"
+defaultContentLanguage = "it"
 disableLanguages = [] #to allow translation work requiring shipping to production
 publishDir = "docs"
 # pluralizeListTitles = "true" # hugo function useful for non-english languages, find out more in  https://gohugo.io/getting-started/configuration/#pluralizelisttitles

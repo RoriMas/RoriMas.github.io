@@ -95,7 +95,7 @@
     
       class=&#34;dark:text-neutral-300&#34;
     &gt;&lt;p&gt;We just launched a CLI tool to help you get started with Blowfish. It will help you with installation and configuration. Install the CLI tool globally using:&lt;/p&gt;</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/docs/getting-started/featured.svg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/docs/per-iniziare/featured.svg" />
     </item>
     
   </channel>

@@ -11,57 +11,37 @@
 # ordered by weight from lowest to highest.
 
 [[main]]
-  name = "Documenti"
-  pageRef = "docs"
-  weight = 10
+name = "DNA digitale"
+pageRef = "docs"
+weight = 10
 
 [[main]]
-  name = "Shortcodes"
-  pageRef = "docs/shortcodes"
-  weight = 15
+name = "Il nostro algoritmo"
+pageRef = "docs/shortcodes"
+weight = 15
 
 [[main]]
-  name = "Esempi"
-  weight = 20
+name = "Futuri Digitali"
+weight = 20
 
 [[main]]
-  name = "Campioni"
-  parent = "Esempi"
-  pageRef = "samples"
-  weight = 16
+name = "Prototipi in pixel"
+parent = "Interazioni Creative"
+pageRef = "examples"
+weight = 30
 
 [[main]]
-  name = "Vetrina"
-  parent = "Esempi"
-  pageRef = "examples"
-  weight = 30
+name = "Echi Interattivi"
+weight = 40
 
-[[main]]
-  name = "Ricette"
-  parent = "Esempi"
-  pageRef = "guides"
-  weight = 40
 
-[[main]]
-  name = "Utenti"
-  pageRef = "users"
-  weight = 90
 
-[[main]]
-  name = "Merch"
-  url = "https://www.teepublic.com/user/blowfish-store/t-shirts"
-  weight = 100
 
 #[[main]]
 #  name = "Test"
 #  pageRef = "pagTest"
 #  weight = 1000
 
-[[main]]
-  identifier = "twitter"
-  pre = "x-twitter"
-  url = "https://twitter.com/burufugu"
-  weight = 200
 
 #[[main]]
 #  identifier = "mastodon"
@@ -69,23 +49,17 @@
 #  weight = 300
 #  url = "https://masto.ai/@blowfish"
 
-[[main]]
-  identifier = "github"
-  pre = "github"
-  url = "https://github.com/nunocoracao/blowfish"
-  weight = 400
-
 
 # -- Footer Menu --
 # The footer menu is displayed at the bottom of the page, just before
 # the copyright notice. Configure as per the main menu above.
 
- [[footer]]
-   name = "Tags"
-   pageRef = "tags"
-   weight = 10
+[[footer]]
+name = "Tags"
+pageRef = "tags"
+weight = 10
 
- [[footer]]
-   name = "Autori"
-   pageRef = "authors"
-   weight = 20
+[[footer]]
+name = "Autori"
+pageRef = "authors"
+weight = 20

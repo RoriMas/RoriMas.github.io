@@ -95,7 +95,7 @@
     
       class=&#34;dark:text-neutral-300&#34;
     &gt;&lt;p&gt;我们刚刚推出了一个 CLI 工具，用来帮助你快速开始 Blowfish。 它将帮助你安装和配置 Blowfish 主题。 可以使用以下命令全局安装 CLI 工具：&lt;/p&gt;</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/docs/getting-started/featured.svg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/docs/per-iniziare/featured.svg" />
     </item>
     
   </channel>
