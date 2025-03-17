@@ -25,6 +25,10 @@ name = "Futuri Digitali"
 weight = 20
 
 [[main]]
+name = "Interazioni Creative"
+weight = 30
+
+[[main]]
 name = "Prototipi in pixel"
 parent = "Interazioni Creative"
 pageRef = "examples"
@@ -32,9 +36,7 @@ weight = 30
 
 [[main]]
 name = "Echi Interattivi"
-weight = 40
-
-
+weight = 50
 
 
 #[[main]]
