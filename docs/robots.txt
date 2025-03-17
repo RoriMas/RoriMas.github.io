@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://rorimas.github.io/sitemap.xml
