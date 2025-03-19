@@ -1,7 +1,7 @@
 languageCode = "it"
 languageName = "Italiano"
 weight = 1
-title = "Scuola di nuove tecnologie dell'arte"
+title = "NTA"
 
 [params]
   displayName = "Italiano"
