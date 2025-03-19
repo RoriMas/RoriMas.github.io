@@ -11,21 +11,21 @@
 # ordered by weight from lowest to highest.
 
 [[main]]
-name = "DNA digitale"
+name = "DNA"
 pageRef = "docs"
 weight = 10
 
 [[main]]
-name = "Il nostro algoritmo"
+name = "Algoritmo"
 pageRef = "docs/shortcodes"
 weight = 15
 
 [[main]]
-name = "Futuri Digitali"
+name = "Futuri"
 weight = 20
 
 [[main]]
-name = "Interazioni Creative"
+name = "Interazioni"
 weight = 30
 
 [[main]]
@@ -35,7 +35,7 @@ pageRef = "examples"
 weight = 30
 
 [[main]]
-name = "Echi Interattivi"
+name = "Echi"
 weight = 50
 
 
