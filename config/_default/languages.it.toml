@@ -17,6 +17,6 @@ title = "NTA"
   headline = "Triennio Nuovi linguaggi della comunicazione"
   bio = "Triennio Nuovi linguaggi della comunicazione"
   links = [
-    { x-twitter = "https://twitter.com/burufugu" },
-    { github = "https://github.com/nunocoracao/blowfish" },
+    { instagram = "https://www.instagram.com/aba_reggiocalabria/" },
+    { graduation-cap = "https://www.abarc.it/didattica/dipartimento-di-progettazione-e-arti-applicate/scuola-di-nuove-tecnologie-dellarte/triennio-di-nuovi-linguaggi-della-comunicazione/" },
   ]
