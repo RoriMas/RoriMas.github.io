@@ -741,27 +741,6 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/docs/</loc>
-    <lastmod>2020-08-14T00:00:00+00:00</lastmod>
-    <changefreq>always</changefreq>
-    <priority>0.5</priority>
-    <xhtml:link
-      rel="alternate"
-      hreflang="zh-cn"
-      href="http://localhost:1313/zh-cn/docs/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="ja"
-      href="http://localhost:1313/ja/docs/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="it"
-      href="http://localhost:1313/docs/"
-    />
-  </url>
-  <url>
     <loc>http://localhost:1313/tags/icons/</loc>
     <lastmod>2022-03-09T00:00:00+00:00</lastmod>
     <changefreq>always</changefreq>
@@ -838,6 +817,27 @@
       rel="alternate"
       hreflang="it"
       href="http://localhost:1313/tags/shortcodes/"
+    />
+  </url>
+  <url>
+    <loc>http://localhost:1313/docs/</loc>
+    <lastmod>2020-08-14T00:00:00+00:00</lastmod>
+    <changefreq>always</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+      rel="alternate"
+      hreflang="zh-cn"
+      href="http://localhost:1313/zh-cn/docs/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="ja"
+      href="http://localhost:1313/ja/docs/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="it"
+      href="http://localhost:1313/docs/"
     />
   </url>
   <url>

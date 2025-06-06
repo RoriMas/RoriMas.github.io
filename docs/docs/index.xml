@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Documenti on NTA</title>
+    <title>Triennio Nuovi linguaggi della comunicazione on NTA</title>
     <link>http://localhost:1313/docs/</link>
-    <description>Recent content in Documenti on NTA</description>
+    <description>Recent content in Triennio Nuovi linguaggi della comunicazione on NTA</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>it</language>
     <copyright>© 2025 Scuola di nuove tecnologie dell&#39;arte</copyright>
@@ -20,7 +20,7 @@
 &lt;/div&gt;
 
 &lt;p&gt;Lo scopo originale di Blowfish era quello di sviluppare un tema semplice e leggero. Il tema è un fork del &lt;a target=&#34;_blank&#34; href=&#34;https://github.com/nunocoracao/congo&#34;&gt;Congo&lt;/a&gt; e ne espande la visione iniziale.&lt;/p&gt;</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/docs/welcome/featured.svg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/docs/welcome/featured_foto.svg" />
     </item>
     
     <item>
