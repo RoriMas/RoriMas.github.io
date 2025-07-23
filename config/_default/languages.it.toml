@@ -4,7 +4,7 @@ weight = 1
 title = "NTA"
 
 [params]
-  displayName = "Italiano"
+  displayName = "IT"
   isoCode = "it"
   rtl = false
   dateFormat = "2 January 2006"
@@ -13,7 +13,7 @@ title = "NTA"
 
 [params.author]
   name = "Scuola di nuove tecnologie dell'arte"
-  image = "img/blowfish_logo.png"
+  # image = "img/blowfish_logo.png"
   headline = "Triennio Nuovi linguaggi della comunicazione"
   bio = "Triennio Nuovi linguaggi della comunicazione"
   links = [
