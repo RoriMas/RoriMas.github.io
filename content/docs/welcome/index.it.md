@@ -1,42 +1,17 @@
 ---
-title: "Benvenuti a Blowfish"
+title: "Informazione per l’arte: mezzi e metodi"
 weight: 1
 draft: false
 description: "Scopri le novità della versione 2.0 di Blowfish."
 tags: ["novità", "documenti"]
-series: ["Documentazione"]
 series_order: 1
 ---
 
-{{< lead >}}
-Blowfish è ricco di tantissime funzionalità.
-{{< /lead >}}
+## Obiettivi formativi 
 
-Lo scopo originale di Blowfish era quello di sviluppare un tema semplice e leggero. Il tema è un fork del <a target="_blank" href="https://github.com/nunocoracao/congo">Congo</a> e ne espande la visione iniziale.
+Il corso prevede di formare gli studenti all’utilizzo consapevole della scrittura divulgativa al fine della comunicazione in ambito artistico e didattico, attraverso i diversi strumenti e mezzi comunicativi del nostro tempo e i diversi destinatari. L’uso consapevole della scrittura è fondamentale per la curatela artistica, nell’ambito della progettazione, nella comunicazione istituzionale, editoriale e promozionale. Il corso integrerà tecniche di storytelling e scrittura creativa a partire dagli strumenti retorici del linguaggio poetico e narrativo, con l’obiettivo di scoprire i registri utili per l’uso dei diversi mezzi, i metodi comunicativi appropriati all’ambito artistico anche con finalità pedagogiche ed educative. Un metodo di comprensione simbolica e interpretazione del testo, come strumento di consapevolezza del linguaggio e corretta scelta della parola, permette di padroneggiare i mezzi di comunicazione sviluppando un’osservazione critica e una terminologia appropriata.
 
-## Tailwind CSS 3.0
 
-Tailwind CSS è il cuore di Blowfish e questa versione contiene l'ultima [Tailwind CSS versione 3](https://tailwindcss.com/blog/tailwindcss-v3). Porta con sé ottimizzazioni delle prestazioni e supporto per alcune nuove fantastiche funzionalità CSS.
-
-{{< youtube "TmWIrBPE6Bc" >}}
-
-## Supporto multilingue
-
-Blowfish è ora multilingue! Una funzionalità molto richiesta. Se pubblichi i tuoi contenuti in più lingue, il sito verrà realizzato con tutte le traduzioni disponibili.
-
-<div class="text-2xl text-center" style="font-size: 2.8rem">:gb: :de: :fr: :es: :cn: :brazil: :tr: :bangladesh:</div>
-
-Grazie ai contributi della community, Blowfish è già stato tradotto in [trenta lingue](https://github.com/nunocoracao/blowfish/tree/main/i18n) e altre verranno aggiunte nel tempo. A proposito, le [richieste pull](https://github.com/nunocoracao/blowfish/pulls) per nuove lingue sono sempre benvenute!
-
-## Supporto per la lingua RTL
-
-Uno dei vantaggi delle nuove funzionalità Tailwind e Multilingual è la possibilità di aggiungere il supporto della lingua RTL. Se abilitato, l'intero sito ridiscorrerà i contenuti da destra a sinistra. Ogni elemento del tema è stato ridisegnato per garantire che abbia un bell'aspetto in questa modalità che aiuta gli autori che desiderano generare contenuti nelle lingue RTL. 
-
-RTL è controllato in base alla lingua, quindi puoi mescolare e abbinare sia il contenuto RTL che LTR nei tuoi progetti e il tema risponderà di conseguenza.
-
-## Ridimensionamento automatico delle immagini
-
-Un grande cambiamento in Blowfish 2.0 è l'aggiunta del ridimensionamento automatico delle immagini. Utilizzando la potenza di Hugo Pipes, le immagini nei contenuti Markdown vengono ora ridimensionate automaticamente in diverse dimensioni di output. Questi vengono poi presentati utilizzando gli attributi HTML "srcset" che consentono di offrire dimensioni di file ottimizzate ai visitatori del tuo sito.
 
 ![](image-resizing.png)
 

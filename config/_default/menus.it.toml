@@ -11,22 +11,14 @@
 # ordered by weight from lowest to highest.
 
 [[main]]
-name = "DNA"
+name = "Discipline"
 pageRef = "docs"
 weight = 10
 
 [[main]]
-name = "Algoritmo"
+name = "Obiettivi formativi"
 pageRef = "docs/shortcodes"
 weight = 15
-
-[[main]]
-name = "Futuri"
-weight = 20
-
-[[main]]
-name = "Interazioni"
-weight = 30
 
 [[main]]
 name = "Prototipi in pixel"
@@ -34,9 +26,6 @@ parent = "Interazioni Creative"
 pageRef = "examples"
 weight = 30
 
-[[main]]
-name = "Echi"
-weight = 50
 
 
 #[[main]]
@@ -62,6 +51,6 @@ pageRef = "tags"
 weight = 10
 
 [[footer]]
-name = "Autori"
+name = "Autore"
 pageRef = "authors"
 weight = 20

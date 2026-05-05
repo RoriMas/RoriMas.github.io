@@ -1,7 +1,7 @@
 languageCode = "it"
 languageName = "Italiano"
 weight = 1
-title = "NTA"
+title = "Nuove tecnologie dell'arte"
 
 [params]
   displayName = "IT"
@@ -9,14 +9,14 @@ title = "NTA"
   rtl = false
   dateFormat = "2 January 2006"
   logo = "img/blowfish_logo_transparent.png"
-  description = "Triennio Nuovi linguaggi della comunicazione"
+  description = "Biennio Arte generativa"
 
 [params.author]
   name = "Scuola di nuove tecnologie dell'arte"
   # image = "img/blowfish_logo.png"
-  headline = "Triennio Nuovi linguaggi della comunicazione"
-  bio = "Triennio Nuovi linguaggi della comunicazione"
+  headline = "Biennio Arte generativa"
+  bio = "Biennio Arte generativa"
   links = [
     { instagram = "https://www.instagram.com/aba_reggiocalabria/" },
-    { graduation-cap = "https://www.abarc.it/didattica/dipartimento-di-progettazione-e-arti-applicate/scuola-di-nuove-tecnologie-dellarte/triennio-di-nuovi-linguaggi-della-comunicazione/" },
+    { graduation-cap = "https://www.abarc.it/didattica/dipartimento-di-progettazione-e-arti-applicate/scuola-di-nuove-tecnologie-dellarte/biennio-arte-generativa/" },
   ]
