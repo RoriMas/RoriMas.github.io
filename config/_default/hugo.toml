@@ -5,7 +5,7 @@
 theme = "blowfish"
 baseURL = "https://rorimas.github.io"
 defaultContentLanguage = "it"
-disableLanguages = [] #to allow translation work requiring shipping to production
+disableLanguages = ["en"] # disable English version
 publishDir = "docs"
 # pluralizeListTitles = "true" # hugo function useful for non-english languages, find out more in  https://gohugo.io/getting-started/configuration/#pluralizelisttitles
 
@@ -64,8 +64,6 @@ googleAnalytics = "G-PEDMYR1V0K"
         name = "date"
         weight = 10
 
-    [[related.indices]]
-      applyFilter = false
-      name = 'fragmentrefs'
-      type = 'fragments'
-      weight = 10
+[params]
+colorScheme = "light"
+defaultAppearance = "light"

@@ -1,9 +1,16 @@
 ---
-title: "Welcome to Blowfish! :tada:"
-description: "This page was built using the Blowfish theme for Hugo."
+title: "Biennio in Arte Generativa"
+layout: "simple"
 ---
 
-![quellochetipare](/img/spacer.png)
+{{< hero-generative >}}
 
-{{< carousel images= "{/img/image?.jpg}" aspectRatio="16-9" interval="2500"  >}}
+{{< aree-studio >}}
 
+{{< manifesto >}}
+
+{{< progetti >}}
+
+{{< docenti >}}
+
+{{< news >}}

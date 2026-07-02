@@ -21,7 +21,7 @@ disableImageOptimization = false
 disableTextInHeader = false
 # backgroundImageWidth = 1200
 
-defaultBackgroundImage = "/img/background.svg"
+defaultBackgroundImage = ""
 defaultFeaturedImage = "/img/fotografia.svg"
 
 highlightCurrentMenuArea = true
@@ -39,8 +39,8 @@ smartTOCHideUnfocusedChildren = false
   showScrollToTop = true
 
 [homepage]
-  layout = "custom" # valid options: page, profile, hero, card, background, custom
-  # homepage.homepageImage" # used in: hero, and card
+  layout = "hero" # valid options: page, profile, hero, card, background, custom
+  homepage.homepageImage = "/img/bg.jpg" # image used for the homepage background
   showRecent = false
   showRecentItems = 6
   showMoreLink = false

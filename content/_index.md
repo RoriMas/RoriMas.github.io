@@ -1,22 +1,27 @@
 ---
-title: "Welcome to Blowfish! :tada:"
-description: "This page was built using the Blowfish theme for Hugo."
+title: "Biennio in Arte Generativa"
+description: "Tecnologie, algoritmi e pratiche artistiche per esplorare nuovi linguaggi espressivi e immaginare il futuro."
+layout: hero
 ---
 
+# Biennio in Arte Generativa
 
-<div class="flex px-4 py-2 mb-8 text-base rounded-md bg-primary-100 dark:bg-primary-900">
-  <span class="flex items-center ltr:pr-3 rtl:pl-3 text-primary-400">
-    {{< icon "triangle-exclamation" >}}
-  </span>
-  <span class="flex items-center justify-between grow dark:text-neutral-300">
-    <span class="prose dark:prose-invert">This is a demo of the <code id="layout">background</code> layout.</span>
-    <button
-      id="switch-layout-button"
-      class="px-4 !text-neutral !no-underline rounded-md bg-primary-600 hover:!bg-primary-500 dark:bg-primary-800 dark:hover:!bg-primary-700"
-    >
-      Switch layout &orarr;
-    </button>
-  </span>
+Tecnologie, algoritmi e pratiche artistiche per esplorare nuovi linguaggi espressivi e immaginare il futuro.
+
+{{< button href="https://www.abarc.it/" target="_blank" >}}SCOPRI IL CORSO{{< /button >}}
+<a class="outline-button ml-4" href="https://www.abarc.it/" target="_blank" rel="noopener noreferrer">PIANO DEGLI STUDI</a>
+
+Un corso che forma progettisti e creativi in grado di integrare sistemi generativi e Intelligenza Artificiale come strumenti complementari e collaborativi nei processi creativi.
+
+{{< youtubeLite id="rI0tbffpidA" label="Video" >}}
+
+<div class="flex flex-wrap gap-4 mt-8">
+  <a class="social-icon" href="https://www.instagram.com/aba_reggiocalabria/" target="_blank" rel="noopener noreferrer">
+    {{< icon "instagram" >}}
+  </a>
+  <a class="social-icon" href="https://www.abarc.it/" target="_blank" rel="noopener noreferrer">
+    {{< icon "graduation-cap" >}}
+  </a>
 </div>
 
 

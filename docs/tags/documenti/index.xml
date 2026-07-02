@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Documenti on Nuove tecnologie dell&#39;arte</title>
-    <link>http://localhost:1313/tags/documenti/</link>
+    <link>https://rorimas.github.io/tags/documenti/</link>
     <description>Recent content in Documenti on Nuove tecnologie dell&#39;arte</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>it</language>
     <copyright>© 2026 Scuola di nuove tecnologie dell&#39;arte</copyright>
-    <atom:link href="http://localhost:1313/tags/documenti/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://rorimas.github.io/tags/documenti/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Informazione per l’arte: mezzi e metodi</title>
-      <link>http://localhost:1313/docs/welcome/</link>
+      <link>https://rorimas.github.io/docs/welcome/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/docs/welcome/</guid>
+      <guid>https://rorimas.github.io/docs/welcome/</guid>
       <description>&lt;h2 class=&#34;relative group&#34;&gt;Obiettivi formativi 
     &lt;div id=&#34;obiettivi-formativi&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
@@ -26,15 +26,15 @@
     
 &lt;/h2&gt;
 &lt;p&gt;Il corso prevede di formare gli studenti all’utilizzo consapevole della scrittura divulgativa al fine della comunicazione in ambito artistico e didattico, attraverso i diversi strumenti e mezzi comunicativi del nostro tempo e i diversi destinatari. L’uso consapevole della scrittura è fondamentale per la curatela artistica, nell’ambito della progettazione, nella comunicazione istituzionale, editoriale e promozionale. Il corso integrerà tecniche di storytelling e scrittura creativa a partire dagli strumenti retorici del linguaggio poetico e narrativo, con l’obiettivo di scoprire i registri utili per l’uso dei diversi mezzi, i metodi comunicativi appropriati all’ambito artistico anche con finalità pedagogiche ed educative. Un metodo di comprensione simbolica e interpretazione del testo, come strumento di consapevolezza del linguaggio e corretta scelta della parola, permette di padroneggiare i mezzi di comunicazione sviluppando un’osservazione critica e una terminologia appropriata.&lt;/p&gt;</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/docs/welcome/featured_foto.svg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://rorimas.github.io/docs/welcome/featured_foto.svg" />
     </item>
     
     <item>
       <title>Installazione</title>
-      <link>http://localhost:1313/docs/installation/</link>
+      <link>https://rorimas.github.io/docs/installation/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/docs/installation/</guid>
+      <guid>https://rorimas.github.io/docs/installation/</guid>
       <description>&lt;p&gt;Segui semplicemente la procedura standard &lt;a href=&#34;https://gohugo.io/getting-started/quick-start/&#34; target=&#34;_blank&#34;&gt;Avvio Rapido&lt;/a&gt; di Hugo per iniziare subito.&lt;/p&gt;
 &lt;p&gt;Sono riportate le istruzioni dettagliate per l&amp;rsquo;installazione. Sono disponibili anche le istruzioni per &lt;a href=&#34;#installazione-aggiornamenti&#34;&gt;aggiornare il tema&lt;/a&gt;.&lt;/p&gt;
 
@@ -50,15 +50,15 @@
     
 &lt;/h2&gt;
 &lt;p&gt;Queste istruzioni ti consentiranno di iniziare a utilizzare Hugo e Blowfish partendo da uno stato completamente vuoto. La maggior parte delle dipendenze menzionate in questa guida possono essere installate utilizzando il gestore pacchetti corretti per la tua piattaforma.&lt;/p&gt;</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/docs/installation/featured.svg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://rorimas.github.io/docs/installation/featured.svg" />
     </item>
     
     <item>
       <title>Per iniziare</title>
-      <link>http://localhost:1313/docs/per-iniziare/</link>
+      <link>https://rorimas.github.io/docs/per-iniziare/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/docs/per-iniziare/</guid>
+      <guid>https://rorimas.github.io/docs/per-iniziare/</guid>
       <description>&lt;div
   
     class=&#34;flex px-4 py-3 rounded-md bg-primary-100 dark:bg-primary-900&#34;
@@ -82,7 +82,7 @@
   &lt;span
     
       class=&#34;dark:text-neutral-300&#34;
-    &gt;Questa sezione presuppone che tu abbia già &lt;a href=&#34;http://localhost:1313/docs/installation/&#34; target=&#34;_blank&#34;&gt;installato il tema Blowfish&lt;/a&gt;.&lt;/span&gt;
+    &gt;Questa sezione presuppone che tu abbia già &lt;a href=&#34;https://rorimas.github.io/docs/installation/&#34; target=&#34;_blank&#34;&gt;installato il tema Blowfish&lt;/a&gt;.&lt;/span&gt;
 &lt;/div&gt;
 
 &lt;/br&gt;
@@ -115,7 +115,7 @@
     
       class=&#34;dark:text-neutral-300&#34;
     &gt;&lt;p&gt;Abbiamo appena lanciato uno strumento CLI per aiutarvi a iniziare con Blowfish. Vi aiuterà con l&amp;rsquo;installazione e la configurazione. Installate lo strumento CLI a livello globale utilizzando:&lt;/p&gt;</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/docs/per-iniziare/featured.svg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://rorimas.github.io/docs/per-iniziare/featured.svg" />
     </item>
     
   </channel>
