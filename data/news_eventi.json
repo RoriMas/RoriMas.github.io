@@ -1,0 +1,25 @@
+[
+  {
+    "id": "senseable-summer-school-stretto",
+    "title": "SENSEABLE - Summer School dello Stretto",
+    "subtitle": "Con Oriana Persico",
+    "type": "Evento",
+    "date": "2024",
+    "accent": "#ff4500",
+    "image": "/images/eventi/senseable.jpg",
+    "excerpt": "La prima edizione di Senseable ha esplorato il rapporto tra arte, dati e immaginazione collettiva.",
+    "description": [
+      "La prima edizione di Senseable - summer school dello stretto - condotta dall'artista Oriana Persico, ha esplorato il rapporto tra arte, dati e immaginazione collettiva.",
+      "A partire dalle ricerche del duo Iaconesi/Persico, il percorso ha introdotto ai partecipanti la pratica della DataMeditation, un rituale capace di generare nuove forme di empatia, conoscenza e connessione con il territorio."
+    ]
+  },
+  {
+    "id": "mostra-generativa-2024",
+    "title": "Mostra Generativa 2024",
+    "subtitle": "Progetti degli studenti",
+    "type": "Mostra",
+    "date": "2024",
+    "accent": "#00c2af",
+    "description": "Una selezione di lavori e ricerche sviluppate dagli studenti nell'ambito dei linguaggi generativi, della progettazione multimediale e delle nuove tecnologie per l'arte."
+  }
+]

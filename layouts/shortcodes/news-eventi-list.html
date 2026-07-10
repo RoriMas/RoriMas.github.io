@@ -1,0 +1,29 @@
+{{ $items := site.Data.news_eventi }}
+<section class="news-events-page">
+  <div class="news-events-intro">
+    <p>In questa pagina sono raccolti aggiornamenti, workshop, mostre e appuntamenti collegati al Biennio in Arte Generativa.</p>
+  </div>
+
+  <div class="news-events-grid">
+    {{ range $items }}
+      <article id="{{ .id }}" class="news-event-card" style="--event-accent: {{ .accent }};">
+        {{ with .image }}
+          <img src="{{ . }}" alt="" class="news-event-image">
+        {{ end }}
+        <div class="news-event-meta">
+          <span>{{ .type }}</span>
+          <span>{{ .date }}</span>
+        </div>
+        <h2>{{ .title }}</h2>
+        <p class="news-event-subtitle">{{ .subtitle }}</p>
+        {{ if reflect.IsSlice .description }}
+          {{ range .description }}
+            <p>{{ . }}</p>
+          {{ end }}
+        {{ else }}
+          <p>{{ .description }}</p>
+        {{ end }}
+      </article>
+    {{ end }}
+  </div>
+</section>

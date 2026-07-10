@@ -1,0 +1,33 @@
+{{ define "main" }}
+{{ .Scratch.Set "scope" "single" }}
+
+<article class="objectives-page">
+  <header class="objectives-hero">
+    {{ if .Params.showBreadcrumbs | default (.Site.Params.article.showBreadcrumbs | default false) }}
+      {{ partial "breadcrumbs.html" . }}
+    {{ end }}
+    <p class="objectives-kicker">Biennio in Arte Generativa</p>
+    <h1>{{ .Title | emojify }}</h1>
+  </header>
+
+  <section class="objectives-layout">
+    <div class="objectives-content prose dark:prose-invert">
+      {{ .Content }}
+    </div>
+    <aside class="objectives-sidebar" aria-label="Sintesi del corso">
+      <div>
+        <span>Corso</span>
+        <strong>Diploma Accademico di Secondo Livello</strong>
+      </div>
+      <div>
+        <span>Crediti</span>
+        <strong>120 CFA</strong>
+      </div>
+      <div>
+        <span>Anni</span>
+        <strong>2</strong>
+      </div>
+    </aside>
+  </section>
+</article>
+{{ end }}

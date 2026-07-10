@@ -1,5 +1,5 @@
 {{- $id := .Get "id" | default "SgXhGb-7QbU" -}}
-{{- $label := .Get "id" | default "Blowfish" -}}
+{{- $label := .Get "label" | default "Video" -}}
 {{- $params := .Get "params" -}}
 
 <lite-youtube videoid="{{ $id }}" playlabel="{{ $label }}" params="{{ $params }}"></lite-youtube>

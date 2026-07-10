@@ -7,8 +7,6 @@ layout: "simple"
 
 {{< aree-studio >}}
 
-{{< manifesto >}}
-
 {{< progetti >}}
 
 {{< docenti >}}

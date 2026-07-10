@@ -1,27 +1,29 @@
-<section style="background:#ececec;">
-  <div class="py-20">
+<section class="news-section" style="background:#ececec;">
+  <div class="news-section-inner">
 
-    <h2 class="text-xl font-semibold text-black mb-10">
-      NEWS & EVENTI
-    </h2>
+    <div class="section-heading">
+      <h2>NEWS&EVENTI</h2>
+      <span aria-hidden="true"></span>
+    </div>
 
     <div class="space-y-6">
-
-      <div class="flex justify-between border-b pb-4">
-        <div>
-          <p class="font-medium">Workshop con Fuse</p>
-          <p class="text-sm text-gray-600">Sound design e live coding</p>
-        </div>
-        <span style="color:#ff4500;">→</span>
-      </div>
-
-      <div class="flex justify-between border-b pb-4">
-        <div>
-          <p class="font-medium">Mostra Generativa 2024</p>
-          <p class="text-sm text-gray-600">Progetti degli studenti</p>
-        </div>
-        <span style="color:#00c2af;">→</span>
-      </div>
+      {{ range site.Data.news_eventi }}
+        <a class="news-home-item {{ if .image }}has-image{{ else }}no-image{{ end }}" href="/news-eventi/#{{ .id }}" style="--event-accent: {{ .accent }};">
+          {{ with .image }}
+            <img src="{{ . }}" alt="" class="news-home-image">
+          {{ end }}
+          <div class="news-home-copy">
+            <div>
+              <p class="font-medium">{{ .title }}</p>
+              <p class="text-sm text-gray-600">{{ .subtitle }}</p>
+              {{ with .excerpt }}
+                <p class="news-home-excerpt">{{ . }}</p>
+              {{ end }}
+            </div>
+            <span>→</span>
+          </div>
+        </a>
+      {{ end }}
 
     </div>
 

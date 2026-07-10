@@ -1378,6 +1378,11 @@
     />
   </url>
   <url>
+    <loc>https://rorimas.github.io/tags/arte-generativa/</loc>
+    <changefreq>always</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://rorimas.github.io/tags/autore/</loc>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
@@ -1628,6 +1633,11 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://rorimas.github.io/tags/intelligenza-artificiale/</loc>
+    <changefreq>always</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://rorimas.github.io/tags/layouts/</loc>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
@@ -1640,26 +1650,6 @@
       rel="alternate"
       hreflang="it"
       href="https://rorimas.github.io/tags/layouts/"
-    />
-  </url>
-  <url>
-    <loc>https://rorimas.github.io/tags/lead/</loc>
-    <changefreq>always</changefreq>
-    <priority>0.5</priority>
-    <xhtml:link
-      rel="alternate"
-      hreflang="ja"
-      href="https://rorimas.github.io/ja/tags/lead/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="zh-cn"
-      href="https://rorimas.github.io/zh-cn/tags/lead/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="it"
-      href="https://rorimas.github.io/tags/lead/"
     />
   </url>
   <url>
@@ -1708,7 +1698,17 @@
     />
   </url>
   <url>
+    <loc>https://rorimas.github.io/news-eventi/</loc>
+    <changefreq>always</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://rorimas.github.io/tags/novit%C3%A0/</loc>
+    <changefreq>always</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://rorimas.github.io/tags/obiettivi-formativi/</loc>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url>

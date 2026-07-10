@@ -1522,11 +1522,6 @@
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
-      hreflang="it"
-      href="https://rorimas.github.io/tags/lead/"
-    />
-    <xhtml:link
-      rel="alternate"
       hreflang="zh-cn"
       href="https://rorimas.github.io/zh-cn/tags/lead/"
     />
