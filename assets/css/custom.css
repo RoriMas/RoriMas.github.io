@@ -853,6 +853,27 @@ header,
   color: #000000;
 }
 
+.main-menu img.header-logo {
+  width: auto !important;
+  height: 5.25rem !important;
+  max-width: 15.5rem !important;
+  max-height: 5.25rem !important;
+}
+
+.header-logo-group,
+.header-logo-link {
+  display: flex;
+  align-items: center;
+}
+
+.header-logo-group {
+  gap: 1rem;
+}
+
+.main-menu img.header-logo-abarc {
+  max-width: 9.9rem !important;
+}
+
 .main-menu a:hover,
 .main-menu a:focus,
 .main-menu .active>a {

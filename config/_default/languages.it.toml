@@ -8,7 +8,7 @@ title = "Nuove tecnologie dell'arte"
   isoCode = "it"
   rtl = false
   dateFormat = "2 January 2006"
-  logo = "img/blowfish_logo_transparent.png"
+  logo = "images/loghi/scuola NTA.png"
   description = "Biennio Arte generativa"
 
 [params.author]
