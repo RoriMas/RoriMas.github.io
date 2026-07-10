@@ -101,7 +101,7 @@ html {
 }
 
 .hero-copy {
-  padding: 3rem 0 3.5rem;
+  padding: 3rem 0 1.75rem;
 }
 
 .hero-copy-inner {
@@ -164,7 +164,7 @@ html {
 }
 
 .news-section-inner {
-  padding: 5.5rem 0 5rem;
+  padding: 2rem 0 5rem;
 }
 
 .news-home-item:hover,
@@ -292,7 +292,7 @@ section > .grid > div {
   max-width: none;
   background: #ececec;
   color: #000000;
-  padding: 2rem 0 3.75rem;
+  padding: 0.75rem 0 3.75rem;
 }
 
 .section-inner {
@@ -329,7 +329,21 @@ section > .grid > div {
 }
 
 .project-heading + .project-grid {
-  margin-top: 0.35rem !important;
+  margin-top: -0.5rem !important;
+}
+
+.docenti-heading + .docenti-grid,
+.news-heading + .space-y-6 {
+  margin-top: -0.5rem !important;
+}
+
+.project-heading span {
+  margin-top: 0.45rem;
+}
+
+.docenti-heading span,
+.news-heading span {
+  margin-top: 0.45rem;
 }
 
 .study-grid {
@@ -664,7 +678,7 @@ section > .grid > div {
   }
 
   .aree-studio {
-    padding: 2.25rem 0 3rem;
+    padding: 0.75rem 0 3rem;
   }
 
   .section-inner {
