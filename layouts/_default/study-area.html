@@ -1,0 +1,25 @@
+{{ define "main" }}
+{{ .Scratch.Set "scope" "single" }}
+
+<article class="study-area-page">
+  <header class="study-area-header">
+    {{ if .Params.showBreadcrumbs | default (.Site.Params.article.showBreadcrumbs | default false) }}
+      {{ partial "breadcrumbs.html" . }}
+    {{ end }}
+    <p class="study-area-kicker">Area di studio</p>
+    <h1>{{ .Title | emojify }}</h1>
+  </header>
+
+  {{ with .Params.image }}
+    <figure class="study-area-media">
+      <img src="{{ . }}" alt="{{ $.Params.imageAlt }}" class="nozoom" loading="eager">
+    </figure>
+  {{ end }}
+
+  <div class="study-area-content prose dark:prose-invert">
+    {{ .Content }}
+  </div>
+
+  <a class="study-area-back" href="/#aree-studio"><span aria-hidden="true">←</span> Torna alle aree di studio</a>
+</article>
+{{ end }}

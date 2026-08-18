@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <html lang="ja" dir="ltr" class="scroll-smooth" data-default-appearance="light"
-  data-auto-appearance="false"><head>
+  data-auto-appearance="false"><head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
   <meta charset="utf-8" />
   
   <meta http-equiv="content-language" content="ja" />
@@ -15,7 +15,7 @@
   <meta name="keywords" content="shortcodes, privacy, sample, gist, twitter, youtube, vimeo, " />
   
   
-  <link rel="canonical" href="https://rorimas.github.io/ja/samples/rich-content/" />
+  <link rel="canonical" href="http://localhost:1313/ja/samples/rich-content/" />
   
   
   
@@ -28,8 +28,8 @@
   
   
   
-  <link type="text/css" rel="stylesheet" href="/css/main.bundle.min.9d3795d3fc2b06f028998595366dc15d9671e5a8e559c6285fc786e62f52e46bf28e0adaee9dce077c20e997a491d9da338662ffd879fc04b4ddfa1a95f8d653.css"
-    integrity="sha512-nTeV0/wrBvAomYWVNm3BXZZx5ajlWcYoX8eG5i9S5Gvyjgra7p3OB3wg6ZekkdnaM4Zi/9h5/AS03foalfjWUw==" />
+  <link type="text/css" rel="stylesheet" href="/css/main.bundle.min.7eaee43b569e7293500e50a92128bc40b248395706b24ed14f12cd3e33e04e0c718a3037481a1f3423177b35e4dab8b7bd13b434424c0158a131ce78900729fb.css"
+    integrity="sha512-fq7kO1aecpNQDlCpISi8QLJIOVcGsk7RTxLNPjPgTgxxijA3SBofNCMXezXk2ri3vRO0NEJMAVihMc54kAcp&#43;w==" />
   
   
   <script type="text/javascript" src="/js/appearance.min.516a16745bea5a9bd011138d254cc0fd3973cd55ce6e15f3dec763e7c7c2c7448f8fe7b54cca811cb821b0c7e12cd161caace1dd794ac3d34d40937cbcc9ee12.js"
@@ -69,7 +69,7 @@
   
   
   
-  <meta property="og:url" content="https://rorimas.github.io/ja/samples/rich-content/">
+  <meta property="og:url" content="http://localhost:1313/ja/samples/rich-content/">
   <meta property="og:title" content="リッチコンテンツ">
   <meta property="og:description" content="Hugo ショートコードの簡単な説明">
   <meta property="og:locale" content="ja">
@@ -100,7 +100,7 @@
     "description": "Hugo ショートコードの簡単な説明",
     "abstract": "This is an \u003cem\u003eexample\u003c\/em\u003e of a \u003cstrong\u003erich\u003c\/strong\u003e content summary.",
     "inLanguage": "ja",
-    "url" : "https:\/\/rorimas.github.io\/ja\/samples\/rich-content\/",
+    "url" : "http:\/\/localhost:1313\/ja\/samples\/rich-content\/",
     "author" : {
       "@type": "Person",
       "name": ""
@@ -1191,38 +1191,16 @@
     
 </h2>
 <p><code>vimeo_simple</code> ショートコードは Vimeo 動画を埋め込むことができます。</p>
-<style>
-.__h_video {
-   position: relative;
-   padding-bottom: 56.23%;
-   height: 0;
-   overflow: hidden;
-   width: 100%;
-   background: #000;
-}
-.__h_video img {
-   width: 100%;
-   height: auto;
-   color: #000;
-}
-.__h_video .play {
-   height: 72px;
-   width: 72px;
-   left: 50%;
-   top: 50%;
-   margin-left: -36px;
-   margin-top: -36px;
-   position: absolute;
-   cursor: pointer;
-}
-</style><div class="s_video_simple __h_video">
-          <a href="https://vimeo.com/4.8912912e&#43;07" rel="noopener" target="_blank">
-            <img src="https://i.vimeocdn.com/video/337401969-979f0cc9f55fdf305fb8984e90d92639ec9d7ecc4c9dfbc6536e28edb43784ce-d_640?region=us" srcset="https://i.vimeocdn.com/video/337401969-979f0cc9f55fdf305fb8984e90d92639ec9d7ecc4c9dfbc6536e28edb43784ce-d_640?region=us 1x, https://i.vimeocdn.com/video/337401969-979f0cc9f55fdf305fb8984e90d92639ec9d7ecc4c9dfbc6536e28edb43784ce-d_640?region=us 2x" alt="Sing Jan Swing - Kinetic Type">
-            <div class="play">
-              <svg version="1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 61 61"><circle cx="30.5" cy="30.5" r="30.5" opacity=".8" fill="#000"></circle><path d="M25.3 19.2c-2.1-1.2-3.8-.2-3.8 2.2v18.1c0 2.4 1.7 3.4 3.8 2.2l16.6-9.1c2.1-1.2 2.1-3.2 0-4.4l-16.6-9z" fill="#fff"></path></svg>
-            </div>
-          </a>
-        </div>
+<div class="vimeo-embed">
+  <iframe
+    src="https://player.vimeo.com/video/48912912?dnt=1"
+    title="Video Vimeo"
+    loading="lazy"
+    allow="autoplay; fullscreen; picture-in-picture"
+    allowfullscreen>
+  </iframe>
+</div>
+
 
           
           
@@ -1240,7 +1218,7 @@
       <a
       target="_blank"
       class="m-1 rounded bg-neutral-300 p-1.5 text-neutral-700 hover:bg-primary-500 hover:text-neutral dark:bg-neutral-700 dark:text-neutral-300 dark:hover:bg-primary-400 dark:hover:text-neutral-800"
-      href="https://www.linkedin.com/shareArticle?mini=true&amp;url=https://rorimas.github.io/ja/samples/rich-content/&amp;title=%e3%83%aa%e3%83%83%e3%83%81%e3%82%b3%e3%83%b3%e3%83%86%e3%83%b3%e3%83%84"
+      href="https://www.linkedin.com/shareArticle?mini=true&amp;url=http://localhost:1313/ja/samples/rich-content/&amp;title=%e3%83%aa%e3%83%83%e3%83%81%e3%82%b3%e3%83%b3%e3%83%86%e3%83%b3%e3%83%84"
       title="LinkedInでシェアする"
       aria-label="LinkedInでシェアする"
       >
@@ -1259,7 +1237,7 @@
       <a
       target="_blank"
       class="m-1 rounded bg-neutral-300 p-1.5 text-neutral-700 hover:bg-primary-500 hover:text-neutral dark:bg-neutral-700 dark:text-neutral-300 dark:hover:bg-primary-400 dark:hover:text-neutral-800"
-      href="https://twitter.com/intent/tweet/?url=https://rorimas.github.io/ja/samples/rich-content/&amp;text=%e3%83%aa%e3%83%83%e3%83%81%e3%82%b3%e3%83%b3%e3%83%86%e3%83%b3%e3%83%84"
+      href="https://twitter.com/intent/tweet/?url=http://localhost:1313/ja/samples/rich-content/&amp;text=%e3%83%aa%e3%83%83%e3%83%81%e3%82%b3%e3%83%b3%e3%83%86%e3%83%b3%e3%83%84"
       title="Twitterに投稿する"
       aria-label="Twitterに投稿する"
       >
@@ -1277,7 +1255,7 @@
       <a
       target="_blank"
       class="m-1 rounded bg-neutral-300 p-1.5 text-neutral-700 hover:bg-primary-500 hover:text-neutral dark:bg-neutral-700 dark:text-neutral-300 dark:hover:bg-primary-400 dark:hover:text-neutral-800"
-      href="https://bsky.app/intent/compose?text=%e3%83%aa%e3%83%83%e3%83%81%e3%82%b3%e3%83%b3%e3%83%86%e3%83%b3%e3%83%84&#43;https://rorimas.github.io/ja/samples/rich-content/"
+      href="https://bsky.app/intent/compose?text=%e3%83%aa%e3%83%83%e3%83%81%e3%82%b3%e3%83%b3%e3%83%86%e3%83%b3%e3%83%84&#43;http://localhost:1313/ja/samples/rich-content/"
       title=""
       aria-label=""
       >
@@ -1295,7 +1273,7 @@
       <a
       target="_blank"
       class="m-1 rounded bg-neutral-300 p-1.5 text-neutral-700 hover:bg-primary-500 hover:text-neutral dark:bg-neutral-700 dark:text-neutral-300 dark:hover:bg-primary-400 dark:hover:text-neutral-800"
-      href="https://reddit.com/submit/?url=https://rorimas.github.io/ja/samples/rich-content/&amp;resubmit=true&amp;title=%e3%83%aa%e3%83%83%e3%83%81%e3%82%b3%e3%83%b3%e3%83%86%e3%83%b3%e3%83%84"
+      href="https://reddit.com/submit/?url=http://localhost:1313/ja/samples/rich-content/&amp;resubmit=true&amp;title=%e3%83%aa%e3%83%83%e3%83%81%e3%82%b3%e3%83%b3%e3%83%86%e3%83%b3%e3%83%84"
       title="Redditに投稿する"
       aria-label="Redditに投稿する"
       >
@@ -1314,7 +1292,7 @@
       <a
       target="_blank"
       class="m-1 rounded bg-neutral-300 p-1.5 text-neutral-700 hover:bg-primary-500 hover:text-neutral dark:bg-neutral-700 dark:text-neutral-300 dark:hover:bg-primary-400 dark:hover:text-neutral-800"
-      href="https://api.whatsapp.com/send?text=https://rorimas.github.io/ja/samples/rich-content/&amp;resubmit=true&amp;title=%e3%83%aa%e3%83%83%e3%83%81%e3%82%b3%e3%83%b3%e3%83%86%e3%83%b3%e3%83%84"
+      href="https://api.whatsapp.com/send?text=http://localhost:1313/ja/samples/rich-content/&amp;resubmit=true&amp;title=%e3%83%aa%e3%83%83%e3%83%81%e3%82%b3%e3%83%b3%e3%83%86%e3%83%b3%e3%83%84"
       title=""
       aria-label=""
       >
@@ -1333,7 +1311,7 @@
       <a
       target="_blank"
       class="m-1 rounded bg-neutral-300 p-1.5 text-neutral-700 hover:bg-primary-500 hover:text-neutral dark:bg-neutral-700 dark:text-neutral-300 dark:hover:bg-primary-400 dark:hover:text-neutral-800"
-      href="https://t.me/share/url?url=https://rorimas.github.io/ja/samples/rich-content/&amp;resubmit=true&amp;title=%e3%83%aa%e3%83%83%e3%83%81%e3%82%b3%e3%83%b3%e3%83%86%e3%83%b3%e3%83%84"
+      href="https://t.me/share/url?url=http://localhost:1313/ja/samples/rich-content/&amp;resubmit=true&amp;title=%e3%83%aa%e3%83%83%e3%83%81%e3%82%b3%e3%83%b3%e3%83%86%e3%83%b3%e3%83%84"
       title=""
       aria-label=""
       >
@@ -1352,7 +1330,7 @@
       <a
       target="_blank"
       class="m-1 rounded bg-neutral-300 p-1.5 text-neutral-700 hover:bg-primary-500 hover:text-neutral dark:bg-neutral-700 dark:text-neutral-300 dark:hover:bg-primary-400 dark:hover:text-neutral-800"
-      href="https://pinterest.com/pin/create/bookmarklet/?url=https://rorimas.github.io/ja/samples/rich-content/&amp;description=%e3%83%aa%e3%83%83%e3%83%81%e3%82%b3%e3%83%b3%e3%83%86%e3%83%b3%e3%83%84"
+      href="https://pinterest.com/pin/create/bookmarklet/?url=http://localhost:1313/ja/samples/rich-content/&amp;description=%e3%83%aa%e3%83%83%e3%83%81%e3%82%b3%e3%83%b3%e3%83%86%e3%83%b3%e3%83%84"
       title="Pinterestでピンする"
       aria-label="Pinterestでピンする"
       >
@@ -1371,7 +1349,7 @@
       <a
       target="_blank"
       class="m-1 rounded bg-neutral-300 p-1.5 text-neutral-700 hover:bg-primary-500 hover:text-neutral dark:bg-neutral-700 dark:text-neutral-300 dark:hover:bg-primary-400 dark:hover:text-neutral-800"
-      href="https://www.facebook.com/sharer/sharer.php?u=https://rorimas.github.io/ja/samples/rich-content/&amp;quote=%e3%83%aa%e3%83%83%e3%83%81%e3%82%b3%e3%83%b3%e3%83%86%e3%83%b3%e3%83%84"
+      href="https://www.facebook.com/sharer/sharer.php?u=http://localhost:1313/ja/samples/rich-content/&amp;quote=%e3%83%aa%e3%83%83%e3%83%81%e3%82%b3%e3%83%b3%e3%83%86%e3%83%b3%e3%83%84"
       title="Facebookでシェアする"
       aria-label="Facebookでシェアする"
       >
@@ -1390,7 +1368,7 @@
       <a
       target="_blank"
       class="m-1 rounded bg-neutral-300 p-1.5 text-neutral-700 hover:bg-primary-500 hover:text-neutral dark:bg-neutral-700 dark:text-neutral-300 dark:hover:bg-primary-400 dark:hover:text-neutral-800"
-      href="mailto:?body=https://rorimas.github.io/ja/samples/rich-content/&amp;subject=%e3%83%aa%e3%83%83%e3%83%81%e3%82%b3%e3%83%b3%e3%83%86%e3%83%b3%e3%83%84"
+      href="mailto:?body=http://localhost:1313/ja/samples/rich-content/&amp;subject=%e3%83%aa%e3%83%83%e3%83%81%e3%82%b3%e3%83%b3%e3%83%86%e3%83%b3%e3%83%84"
       title=" Eメールを送る"
       aria-label=" Eメールを送る"
       >
@@ -2446,7 +2424,7 @@
 <div
   id="search-wrapper"
   class="invisible fixed inset-0 flex h-screen w-screen cursor-default flex-col bg-neutral-500/50 p-4 backdrop-blur-sm dark:bg-neutral-900/50 sm:p-6 md:p-[10vh] lg:p-[12vh]"
-  data-url="https://rorimas.github.io/ja/"
+  data-url="http://localhost:1313/ja/"
   style="z-index:500"
 >
   <div

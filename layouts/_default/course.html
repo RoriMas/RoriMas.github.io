@@ -1,0 +1,21 @@
+{{ define "main" }}
+{{ .Scratch.Set "scope" "single" }}
+
+<article class="course-page">
+  <header class="course-hero">
+    {{ if .Params.showBreadcrumbs | default (.Site.Params.article.showBreadcrumbs | default false) }}
+      {{ partial "breadcrumbs.html" . }}
+    {{ end }}
+    <p class="course-kicker">Biennio specialistico</p>
+    <h1>{{ .Title | emojify }}</h1>
+    {{ with .Params.credits }}
+      <p class="course-credits">{{ . }}</p>
+    {{ end }}
+    <span class="course-title-rule" aria-hidden="true"></span>
+  </header>
+
+  <div class="course-content prose dark:prose-invert">
+    {{ .Content }}
+  </div>
+</article>
+{{ end }}

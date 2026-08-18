@@ -18,7 +18,7 @@ weight = 10
 [[main]]
 name = "Obiettivi formativi"
 pageRef = "docs/shortcodes"
-weight = 15
+weight = 5
 
 [[main]]
 name = "Interazioni Creative"

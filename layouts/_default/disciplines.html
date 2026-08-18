@@ -1,0 +1,45 @@
+{{ define "main" }}
+{{ .Scratch.Set "scope" "list" }}
+
+<article class="disciplines-page">
+  <header class="disciplines-hero">
+    {{ if .Params.showBreadcrumbs | default (.Site.Params.list.showBreadcrumbs | default false) }}
+      {{ partial "breadcrumbs.html" . }}
+    {{ end }}
+    <p class="disciplines-kicker">Biennio in Arte Generativa</p>
+    <h1>{{ .Title }}</h1>
+    <div class="disciplines-lead prose dark:prose-invert">{{ .Content }}</div>
+  </header>
+
+  <section class="disciplines-grid" aria-label="Elenco delle discipline">
+    {{ range $index, $discipline := .Params.disciplines }}
+      {{ $accent := index (slice "teal" "violet" "orange") (mod $index 3) }}
+      {{ if $discipline.available }}
+        <a class="discipline-card discipline-card-{{ $accent }} is-available" href="{{ $discipline.url }}">
+          <span class="discipline-number">{{ printf "%02d" (add $index 1) }}</span>
+          <h2>{{ $discipline.title }}</h2>
+          {{ with $discipline.credits }}
+            <span class="discipline-credits">{{ . }} crediti formativi</span>
+          {{ end }}
+          {{ with $discipline.courseType }}
+            <span class="discipline-course-type">{{ . }}</span>
+          {{ end }}
+          <span class="discipline-action">Scopri la disciplina <span aria-hidden="true">→</span></span>
+        </a>
+      {{ else }}
+        <article class="discipline-card discipline-card-{{ $accent }}">
+          <span class="discipline-number">{{ printf "%02d" (add $index 1) }}</span>
+          <h2>{{ $discipline.title }}</h2>
+          {{ with $discipline.credits }}
+            <span class="discipline-credits">{{ . }} crediti formativi</span>
+          {{ end }}
+          {{ with $discipline.courseType }}
+            <span class="discipline-course-type">{{ . }}</span>
+          {{ end }}
+          <span class="discipline-status">Contenuti in arrivo</span>
+        </article>
+      {{ end }}
+    {{ end }}
+  </section>
+</article>
+{{ end }}
