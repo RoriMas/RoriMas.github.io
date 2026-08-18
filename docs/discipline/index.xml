@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Discipline on Nuove tecnologie dell&#39;arte</title>
-    <link>http://localhost:1313/discipline/</link>
+    <link>https://rorimas.github.io/discipline/</link>
     <description>Recent content in Discipline on Nuove tecnologie dell&#39;arte</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>it</language>
     <copyright>© 2026 Scuola di nuove tecnologie dell&#39;arte</copyright>
-    <lastBuildDate>Fri, 14 Aug 2020 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/discipline/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 14 Aug 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://rorimas.github.io/discipline/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Informazione per l’arte: mezzi e metodi</title>
-      <link>http://localhost:1313/discipline/informazione-per-l-arte/</link>
+      <link>https://rorimas.github.io/discipline/informazione-per-l-arte/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/discipline/informazione-per-l-arte/</guid>
+      <guid>https://rorimas.github.io/discipline/informazione-per-l-arte/</guid>
       <description>&lt;p&gt;Il corso di &lt;em&gt;Informazione per l’arte&lt;/em&gt;, rivolto al biennio specialistico, esplora le metodologie e le tecniche della comunicazione applicate all’ambito artistico, con particolare attenzione ai processi dell’informazione giornalistica ed editoriale. Durante le lezioni, studenti e studentesse analizzeranno linguaggi, formati e strategie di comunicazione dell’arte nei media, osservando come si costruisce e si diffonde il discorso sull’arte. Accanto all’analisi teorica, il corso prevede una parte laboratoriale dedicata alla produzione di contenuti giornalistici (articoli, interviste, recensioni) e alla progettazione e realizzazione di una rivista d’arte a cura della classe.&lt;/p&gt;</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/discipline/informazione-per-l-arte/featured_foto.svg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://rorimas.github.io/discipline/informazione-per-l-arte/featured_foto.svg" />
     </item>
     
     <item>
       <title>Installazione</title>
-      <link>http://localhost:1313/docs/installation/</link>
+      <link>https://rorimas.github.io/docs/installation/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/docs/installation/</guid>
+      <guid>https://rorimas.github.io/docs/installation/</guid>
       <description>&lt;p&gt;Segui semplicemente la procedura standard &lt;a href=&#34;https://gohugo.io/getting-started/quick-start/&#34; target=&#34;_blank&#34;&gt;Avvio Rapido&lt;/a&gt; di Hugo per iniziare subito.&lt;/p&gt;
 &lt;p&gt;Sono riportate le istruzioni dettagliate per l&amp;rsquo;installazione. Sono disponibili anche le istruzioni per &lt;a href=&#34;#installazione-aggiornamenti&#34;&gt;aggiornare il tema&lt;/a&gt;.&lt;/p&gt;
 
@@ -40,35 +40,35 @@
     
 &lt;/h2&gt;
 &lt;p&gt;Queste istruzioni ti consentiranno di iniziare a utilizzare Hugo e Blowfish partendo da uno stato completamente vuoto. La maggior parte delle dipendenze menzionate in questa guida possono essere installate utilizzando il gestore pacchetti corretti per la tua piattaforma.&lt;/p&gt;</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/docs/installation/featured.svg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://rorimas.github.io/docs/installation/featured.svg" />
     </item>
     
     <item>
       <title>Tecniche di animazione digitale</title>
-      <link>http://localhost:1313/discipline/tecniche-di-animazione-digitale/</link>
+      <link>https://rorimas.github.io/discipline/tecniche-di-animazione-digitale/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/discipline/tecniche-di-animazione-digitale/</guid>
+      <guid>https://rorimas.github.io/discipline/tecniche-di-animazione-digitale/</guid>
       <description>&lt;p&gt;Il corso si propone di fornire agli studenti strumenti teorici e pratici per la progettazione e la realizzazione di prodotti di motion graphic e di animazione digitale. L’insegnamento privilegia l’uso di Adobe After Effects come software principale, integrato quando necessario con Photoshop e Illustrator, per consolidare un flusso operativo coerente e professionale.&lt;/p&gt;</description>
       
     </item>
     
     <item>
       <title>Culture digitali</title>
-      <link>http://localhost:1313/discipline/culture-digitali/</link>
+      <link>https://rorimas.github.io/discipline/culture-digitali/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/discipline/culture-digitali/</guid>
+      <guid>https://rorimas.github.io/discipline/culture-digitali/</guid>
       <description>&lt;p&gt;Il corso di Culture digitali ha lo scopo di fare chiarezza nel complesso fenomeno delle relazioni che definiscono l’era dell’informazione e lo scenario creativo e tecnico della maggior parte delle pratiche artistiche contemporanee.&lt;/p&gt;</description>
       
     </item>
     
     <item>
       <title>Per iniziare</title>
-      <link>http://localhost:1313/docs/per-iniziare/</link>
+      <link>https://rorimas.github.io/docs/per-iniziare/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/docs/per-iniziare/</guid>
+      <guid>https://rorimas.github.io/docs/per-iniziare/</guid>
       <description>&lt;div
   
     class=&#34;flex px-4 py-3 rounded-md bg-primary-100 dark:bg-primary-900&#34;
@@ -92,7 +92,7 @@
   &lt;span
     
       class=&#34;dark:text-neutral-300&#34;
-    &gt;Questa sezione presuppone che tu abbia già &lt;a href=&#34;http://localhost:1313/docs/installation/&#34; target=&#34;_blank&#34;&gt;installato il tema Blowfish&lt;/a&gt;.&lt;/span&gt;
+    &gt;Questa sezione presuppone che tu abbia già &lt;a href=&#34;https://rorimas.github.io/docs/installation/&#34; target=&#34;_blank&#34;&gt;installato il tema Blowfish&lt;/a&gt;.&lt;/span&gt;
 &lt;/div&gt;
 
 &lt;/br&gt;
@@ -125,117 +125,117 @@
     
       class=&#34;dark:text-neutral-300&#34;
     &gt;&lt;p&gt;Abbiamo appena lanciato uno strumento CLI per aiutarvi a iniziare con Blowfish. Vi aiuterà con l&amp;rsquo;installazione e la configurazione. Installate lo strumento CLI a livello globale utilizzando:&lt;/p&gt;</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/docs/per-iniziare/featured.svg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://rorimas.github.io/docs/per-iniziare/featured.svg" />
     </item>
     
     <item>
       <title>Configurazione</title>
-      <link>http://localhost:1313/docs/configurazioni/</link>
+      <link>https://rorimas.github.io/docs/configurazioni/</link>
       <pubDate>Fri, 14 Aug 2020 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/docs/configurazioni/</guid>
+      <guid>https://rorimas.github.io/docs/configurazioni/</guid>
       <description>&lt;p&gt;Blowfish è un tema altamente personalizzabile e utilizza alcune delle più recenti funzionalità di Hugo per semplificarne la configurazione.&lt;/p&gt;
 &lt;p&gt;Il tema viene fornito con una configurazione predefinita che ti consente di essere operativo con un blog di base o un sito Web statico.&lt;/p&gt;</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/docs/configurazioni/featured.svg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://rorimas.github.io/docs/configurazioni/featured.svg" />
     </item>
     
     <item>
       <title>Software art</title>
-      <link>http://localhost:1313/discipline/software-art/</link>
+      <link>https://rorimas.github.io/discipline/software-art/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/discipline/software-art/</guid>
+      <guid>https://rorimas.github.io/discipline/software-art/</guid>
       <description>&lt;p&gt;Il corso esplora la “Software Art” come pratica artistica autonoma, dove il codice e il software diventano linguaggi estetici, concettuali e politici. Verranno trattate le radici storiche (arte generativa, net art, software studies), le pratiche legate all’indie web e le trasformazioni contemporanee legate ai Large Language Models (LLM) applicati all’arte visiva, performativa, sonora e narrativa.&lt;/p&gt;</description>
       
     </item>
     
     <item>
       <title>Digital video</title>
-      <link>http://localhost:1313/discipline/digital-video/</link>
+      <link>https://rorimas.github.io/discipline/digital-video/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/discipline/digital-video/</guid>
+      <guid>https://rorimas.github.io/discipline/digital-video/</guid>
       <description>&lt;p&gt;Questo corso si occuperà del rapporto tra realtà e rappresentazione, tra il mondo e il dispositivo narrativo audiovisivo. L’argomento verrà approfondito attraverso lo studio di opere appartenenti al genere del “documentario tradizionale” e al filone del cosiddetto “cinema del reale” e del loro rapporto con la videoarte e col video sperimentale. A questo argomento il corso affiancherà lo studio degli aspetti tecnici del video digitale, allo scopo di realizzare video la cui forma e il cui “genere” rispecchino le attitudini artistiche dei partecipanti.&lt;/p&gt;</description>
       
     </item>
     
     <item>
       <title>Homepage Layout</title>
-      <link>http://localhost:1313/docs/homepage-layout/</link>
+      <link>https://rorimas.github.io/docs/homepage-layout/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/docs/homepage-layout/</guid>
+      <guid>https://rorimas.github.io/docs/homepage-layout/</guid>
       <description>&lt;p&gt;Blowfish fornisce un layout della home page completamente flessibile. Sono disponibili due modelli principali tra cui scegliere con impostazioni aggiuntive per adattare il design. In alternativa, puoi anche fornire il tuo modello e avere il controllo completo sul contenuto della home page.&lt;/p&gt;</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/docs/homepage-layout/featured.svg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://rorimas.github.io/docs/homepage-layout/featured.svg" />
     </item>
     
     <item>
       <title>Didattica della multimedialità</title>
-      <link>http://localhost:1313/discipline/didattica-della-multimedialita/</link>
+      <link>https://rorimas.github.io/discipline/didattica-della-multimedialita/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/discipline/didattica-della-multimedialita/</guid>
+      <guid>https://rorimas.github.io/discipline/didattica-della-multimedialita/</guid>
       <description>&lt;p&gt;Si richiede padronanza degli aspetti storici e metodologici delle teorie dell’educazione posti in relazione all’arte e applicate alle nuove tecnologie, per creare competenze e ambiti di ricerca circa metodi e processi operativi con strumenti interdisciplinari, comunicare i linguaggi artistici e acquisire strumenti metodologici e critici adeguati ai linguaggi espressivi delle tecniche e tecnologie più avanzate.&lt;/p&gt;</description>
       
     </item>
     
     <item>
       <title>Obiettivi formativi</title>
-      <link>http://localhost:1313/docs/shortcodes/</link>
+      <link>https://rorimas.github.io/docs/shortcodes/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/docs/shortcodes/</guid>
+      <guid>https://rorimas.github.io/docs/shortcodes/</guid>
       <description>&lt;div class=&#34;objectives-text-blocks&#34;&gt;
   &lt;p&gt;Il programma fornisce una solida preparazione teorica, competenze tecniche avanzate e strumenti di management strategico, necessari per padroneggiare e applicare le nuove tecnologie all’interno di contesti produttivi complessi, valorizzando l’interazione tra creatività e innovazione tecnologica.&lt;/p&gt;</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/docs/shortcodes/featured.svg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://rorimas.github.io/docs/shortcodes/featured.svg" />
     </item>
     
     <item>
       <title>Front Matter</title>
-      <link>http://localhost:1313/docs/front-matter/</link>
+      <link>https://rorimas.github.io/docs/front-matter/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/docs/front-matter/</guid>
+      <guid>https://rorimas.github.io/docs/front-matter/</guid>
       <description>&lt;p&gt;Oltre ai &lt;a href=&#34;https://gohugo.io/content-management/front-matter/#front-matter-variables&#34; target=&#34;_blank&#34;&gt;parametri predefiniti della parte frontale di Hugo&lt;/a&gt;, Blowfish aggiunge una serie di opzioni aggiuntive per personalizzare la presentazione dei singoli articoli . Tutti i parametri disponibili per la parte frontale del tema sono elencati di seguito.&lt;/p&gt;</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/docs/front-matter/featured.svg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://rorimas.github.io/docs/front-matter/featured.svg" />
     </item>
     
     <item>
       <title>Inglese per la comunicazione artistica</title>
-      <link>http://localhost:1313/discipline/inglese-per-la-comunicazione-artistica/</link>
+      <link>https://rorimas.github.io/discipline/inglese-per-la-comunicazione-artistica/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/discipline/inglese-per-la-comunicazione-artistica/</guid>
+      <guid>https://rorimas.github.io/discipline/inglese-per-la-comunicazione-artistica/</guid>
       <description>&lt;p&gt;Il corso si propone di: a) potenziare le abilità necessarie alla comprensione e alla fruizione della lingua inglese di livello avanzato, con specifico riferimento alla comunicazione nei rispettivi ambiti artistici di riferimento degli studenti; b) sviluppare specifiche abilità di scrittura per la composizione di testi formali inerenti al contesto artistico moderno e contemporaneo.&lt;/p&gt;</description>
       
     </item>
     
     <item>
       <title>Art direction</title>
-      <link>http://localhost:1313/discipline/art-direction/</link>
+      <link>https://rorimas.github.io/discipline/art-direction/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/discipline/art-direction/</guid>
+      <guid>https://rorimas.github.io/discipline/art-direction/</guid>
       <description>&lt;p&gt;Il corso di Art Direction mira ad analizzare e definire quell’insieme strumentale, di natura sia concettuale sia operativa, attraverso il quale lo studente potrà sviluppare, secondo un percorso autonomo, le competenze multidisciplinari e crossmediali tipiche della figura dell’Art Director.&lt;/p&gt;</description>
       
     </item>
     
     <item>
       <title>Multiple Authors</title>
-      <link>http://localhost:1313/docs/multi-author/</link>
+      <link>https://rorimas.github.io/docs/multi-author/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/docs/multi-author/</guid>
+      <guid>https://rorimas.github.io/docs/multi-author/</guid>
       <description>&lt;p&gt;Some websites have more than one author contributing with content and therefore require more than a single default author across the entire website. For those use-cases, Blowfish allows users to extend the list of authors using the multiple authors feature.&lt;/p&gt;</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/docs/multi-author/featured.svg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://rorimas.github.io/docs/multi-author/featured.svg" />
     </item>
     
     <item>
       <title>Partials</title>
-      <link>http://localhost:1313/docs/partials/</link>
+      <link>https://rorimas.github.io/docs/partials/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/docs/partials/</guid>
+      <guid>https://rorimas.github.io/docs/partials/</guid>
       <description>&lt;h2 class=&#34;relative group&#34;&gt;Analytics 
     &lt;div id=&#34;analytics&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
@@ -247,25 +247,25 @@
     
 &lt;/h2&gt;
 &lt;p&gt;Blowfish provides built-in support for Fathom Analytics and Google Analytics. Fathom is a paid alternative to Google Analytics that respects user privacy.&lt;/p&gt;</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/docs/partials/featured.svg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://rorimas.github.io/docs/partials/featured.svg" />
     </item>
     
     <item>
       <title>Progettazione multimediale</title>
-      <link>http://localhost:1313/discipline/progettazione-multimediale/</link>
+      <link>https://rorimas.github.io/discipline/progettazione-multimediale/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/discipline/progettazione-multimediale/</guid>
+      <guid>https://rorimas.github.io/discipline/progettazione-multimediale/</guid>
       <description>&lt;p&gt;Il corso propone lo studio di strumenti metodologici e di strategie d’uso delle nuove tecnologie nello spettacolo multimediale a circuito aperto e chiuso (cinema e teatro). Esaminando il linguaggio video nelle sue possibili declinazioni creative, dal progetto video monocanale alla videoperformance, nell’evoluzione degli spazi performativi, in ambienti strutturati e storicamente destinati alla performance, sarà evidenziata la connessione, già in fase di progettazione, tra opera video/virtuale e spazio, quindi la relazione tra corpi materiali e immateriali.&lt;/p&gt;</description>
       
     </item>
     
     <item>
       <title>Progettazione di software interattivi</title>
-      <link>http://localhost:1313/discipline/progettazione-di-software-interattivi/</link>
+      <link>https://rorimas.github.io/discipline/progettazione-di-software-interattivi/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/discipline/progettazione-di-software-interattivi/</guid>
+      <guid>https://rorimas.github.io/discipline/progettazione-di-software-interattivi/</guid>
       <description>&lt;h2 class=&#34;relative group&#34;&gt;Obiettivi formativi 
     &lt;div id=&#34;obiettivi-formativi&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
@@ -282,10 +282,10 @@
     
     <item>
       <title>Thumbnails</title>
-      <link>http://localhost:1313/docs/thumbnails/</link>
+      <link>https://rorimas.github.io/docs/thumbnails/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/docs/thumbnails/</guid>
+      <guid>https://rorimas.github.io/docs/thumbnails/</guid>
       <description>&lt;h2 class=&#34;relative group&#34;&gt;Thumbnails 
     &lt;div id=&#34;thumbnails&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
@@ -297,106 +297,106 @@
     
 &lt;/h2&gt;
 &lt;p&gt;Blowfish was enhanced in order to make it easy to add visual support to your posts. To do so, you just need to place an image file (almost all formats are supported but we recommend &lt;code&gt;.png&lt;/code&gt; or &lt;code&gt;.jpg&lt;/code&gt;) that starts with &lt;code&gt;feature*&lt;/code&gt; inside your article&amp;rsquo;s main directory, as shown in the example below.&lt;/p&gt;</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/docs/thumbnails/featured.svg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://rorimas.github.io/docs/thumbnails/featured.svg" />
     </item>
     
     <item>
       <title>Content Examples</title>
-      <link>http://localhost:1313/docs/content-examples/</link>
+      <link>https://rorimas.github.io/docs/content-examples/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/docs/content-examples/</guid>
+      <guid>https://rorimas.github.io/docs/content-examples/</guid>
       <description>&lt;p&gt;If you&amp;rsquo;ve been reading the documentation in order, you should now know about all the features and configurations available in Blowfish. This page is designed to pull everything together and offer some worked examples that you might like to use in your Hugo project.&lt;/p&gt;</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/docs/content-examples/featured.svg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://rorimas.github.io/docs/content-examples/featured.svg" />
     </item>
     
     <item>
       <title>Progettazione spazi sonori</title>
-      <link>http://localhost:1313/discipline/progettazione-spazi-sonori/</link>
+      <link>https://rorimas.github.io/discipline/progettazione-spazi-sonori/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/discipline/progettazione-spazi-sonori/</guid>
+      <guid>https://rorimas.github.io/discipline/progettazione-spazi-sonori/</guid>
       <description>&lt;p&gt;Progettazione di spazi sonori è una disciplina che tratta tematiche che si trovano all’intersezione di saperi diversi: sound design, sound art, composizione sonora e architettonica. Viviamo al giorno d’oggi in spazi in cui la presenza del suono, il suo impiego per scopi comunicativi, la sua produzione consapevole o inconsapevole, come effetto collaterale delle più varie attività ludiche e produttive, sono sempre più pervasivi.&lt;/p&gt;</description>
       
     </item>
     
     <item>
       <title>Regia</title>
-      <link>http://localhost:1313/discipline/regia/</link>
+      <link>https://rorimas.github.io/discipline/regia/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/discipline/regia/</guid>
+      <guid>https://rorimas.github.io/discipline/regia/</guid>
       <description>&lt;p&gt;Il corso fornisce le nozioni di base della regia teatrale, analizzando tutti gli aspetti della realizzazione dello spettacolo, e propone, come parte pratica, lo sviluppo della fase progettuale per ciascuno studente. Inoltre, ha la finalità di fornire agli studenti gli strumenti concettuali per analizzare la sceneggiatura, per poi potersi rapportare al meglio con i registi con i quali si troveranno a lavorare.&lt;/p&gt;</description>
       
     </item>
     
     <item>
       <title>Series</title>
-      <link>http://localhost:1313/docs/series/</link>
+      <link>https://rorimas.github.io/docs/series/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/docs/series/</guid>
+      <guid>https://rorimas.github.io/docs/series/</guid>
       <description>&lt;p&gt;Blowfish provides a feature to group a set of articles together under a &amp;ldquo;series&amp;rdquo;. Placing an article under a series will display the rest of the series articles in each single page and provide a quick way to navigate amongst them. You can see an example of this above.&lt;/p&gt;</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/docs/series/featured.svg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://rorimas.github.io/docs/series/featured.svg" />
     </item>
     
     <item>
       <title>Advanced Customisation</title>
-      <link>http://localhost:1313/docs/advanced-customisation/</link>
+      <link>https://rorimas.github.io/docs/advanced-customisation/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/docs/advanced-customisation/</guid>
+      <guid>https://rorimas.github.io/docs/advanced-customisation/</guid>
       <description>&lt;p&gt;There are many ways you can make advanced changes to Blowfish. Read below to learn more about what can be customised and the best way of achieving your desired result.&lt;/p&gt;</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/docs/advanced-customisation/featured.svg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://rorimas.github.io/docs/advanced-customisation/featured.svg" />
     </item>
     
     <item>
       <title>Fenomenologia delle arti contemporanee</title>
-      <link>http://localhost:1313/discipline/fenomenologia-delle-arti-contemporanee/</link>
+      <link>https://rorimas.github.io/discipline/fenomenologia-delle-arti-contemporanee/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/discipline/fenomenologia-delle-arti-contemporanee/</guid>
+      <guid>https://rorimas.github.io/discipline/fenomenologia-delle-arti-contemporanee/</guid>
       <description>&lt;p&gt;Il corso affronta la fenomenologia delle arti contemporanee come strumento di analisi dell’esperienza estetica, con particolare attenzione alle pratiche artistiche. Si esaminano le relazioni tra opera, spettatore e contesto, applicando molteplici metodi — psicoanalitico, sociologico, strutturalista e post-strutturalista — alla lettura dell’opera d’arte.&lt;/p&gt;</description>
       
     </item>
     
     <item>
       <title>A scelta dello studente</title>
-      <link>http://localhost:1313/discipline/a-scelta-dello-studente/</link>
+      <link>https://rorimas.github.io/discipline/a-scelta-dello-studente/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/discipline/a-scelta-dello-studente/</guid>
+      <guid>https://rorimas.github.io/discipline/a-scelta-dello-studente/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Hosting &amp; Deployment</title>
-      <link>http://localhost:1313/docs/hosting-deployment/</link>
+      <link>https://rorimas.github.io/docs/hosting-deployment/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/docs/hosting-deployment/</guid>
+      <guid>https://rorimas.github.io/docs/hosting-deployment/</guid>
       <description>&lt;p&gt;There are many ways to deploy your Hugo website built with Blowfish. The theme is designed to be flexible in almost any deployment scenario.&lt;/p&gt;
 &lt;p&gt;Blowfish is built using relative URLs throughout the theme. This enables sites to easily be deployed to sub-folders and hosts like GitHub Pages. There&amp;rsquo;s usually no special configuration required for this to work as long as the &lt;code&gt;baseURL&lt;/code&gt; parameter has been configured in the &lt;code&gt;config.toml&lt;/code&gt; file.&lt;/p&gt;</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/docs/hosting-deployment/featured.svg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://rorimas.github.io/docs/hosting-deployment/featured.svg" />
     </item>
     
     <item>
       <title>Firebase: Views &amp; Likes</title>
-      <link>http://localhost:1313/docs/firebase-views/</link>
+      <link>https://rorimas.github.io/docs/firebase-views/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/docs/firebase-views/</guid>
+      <guid>https://rorimas.github.io/docs/firebase-views/</guid>
       <description>&lt;p&gt;In order to be able to support dynamic data across your website we&amp;rsquo;ve added the support to integrate Firebase. This will allow you to use the views feature across lists and posts.&lt;/p&gt;</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/docs/firebase-views/featured.svg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://rorimas.github.io/docs/firebase-views/featured.svg" />
     </item>
     
     <item>
       <title>Tirocinio</title>
-      <link>http://localhost:1313/discipline/tirocinio/</link>
+      <link>https://rorimas.github.io/discipline/tirocinio/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/discipline/tirocinio/</guid>
+      <guid>https://rorimas.github.io/discipline/tirocinio/</guid>
       <description>&lt;p&gt;La nostra Accademia ha come obiettivo attivare tirocini formativi in convenzione con enti e aziende accreditate, in modo che lo studente possa fare scelte professionali ponderate attraverso la conoscenza diretta del mondo del lavoro.&lt;/p&gt;</description>
       
     </item>

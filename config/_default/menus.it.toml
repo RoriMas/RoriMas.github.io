@@ -22,20 +22,8 @@ weight = 5
 
 [[main]]
 name = "Interazioni Creative"
-identifier = "interazioni-creative"
-weight = 20
-
-[[main]]
-name = "Prototipi in pixel"
-parent = "interazioni-creative"
-pageRef = "examples"
-weight = 30
-
-[[main]]
-name = "News ed eventi"
-parent = "interazioni-creative"
 pageRef = "news-eventi"
-weight = 40
+weight = 30
 
 
 

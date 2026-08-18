@@ -2,59 +2,59 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Aree di studio on Nuove tecnologie dell&#39;arte</title>
-    <link>http://localhost:1313/aree-di-studio/</link>
+    <link>https://rorimas.github.io/aree-di-studio/</link>
     <description>Recent content in Aree di studio on Nuove tecnologie dell&#39;arte</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>it</language>
     <copyright>© 2026 Scuola di nuove tecnologie dell&#39;arte</copyright>
-    <atom:link href="http://localhost:1313/aree-di-studio/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://rorimas.github.io/aree-di-studio/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>AI e creatività</title>
-      <link>http://localhost:1313/aree-di-studio/ai-e-creativita/</link>
+      <link>https://rorimas.github.io/aree-di-studio/ai-e-creativita/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/aree-di-studio/ai-e-creativita/</guid>
+      <guid>https://rorimas.github.io/aree-di-studio/ai-e-creativita/</guid>
       <description>&lt;p&gt;L’intelligenza artificiale apre nuovi territori per la ricerca artistica, mettendo in relazione immaginazione, dati e sistemi generativi. L’AI viene esplorata non come sostituto dell’autore, ma come strumento collaborativo con cui interrogare il processo creativo, produrre variazioni e scoprire connessioni inattese.&lt;/p&gt;</description>
       
     </item>
     
     <item>
       <title>Arte computazionale</title>
-      <link>http://localhost:1313/aree-di-studio/arte-computazionale/</link>
+      <link>https://rorimas.github.io/aree-di-studio/arte-computazionale/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/aree-di-studio/arte-computazionale/</guid>
+      <guid>https://rorimas.github.io/aree-di-studio/arte-computazionale/</guid>
       <description>&lt;p&gt;L’arte computazionale nasce dall’incontro tra pensiero artistico e processi algoritmici. Il codice non è soltanto uno strumento tecnico, ma diventa materia espressiva: un insieme di regole capace di generare immagini, forme, movimenti e comportamenti in continua trasformazione.&lt;/p&gt;</description>
       
     </item>
     
     <item>
       <title>Interaction design</title>
-      <link>http://localhost:1313/aree-di-studio/interaction-design/</link>
+      <link>https://rorimas.github.io/aree-di-studio/interaction-design/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/aree-di-studio/interaction-design/</guid>
+      <guid>https://rorimas.github.io/aree-di-studio/interaction-design/</guid>
       <description>&lt;p&gt;L’Interaction Design studia e progetta il dialogo tra persone, tecnologie e ambienti. Ogni gesto, risposta e comportamento diventa parte di un’esperienza: l’obiettivo non è soltanto costruire interfacce, ma dare forma a relazioni intuitive, accessibili e significative.&lt;/p&gt;</description>
       
     </item>
     
     <item>
       <title>New media e visual culture</title>
-      <link>http://localhost:1313/aree-di-studio/new-media-e-visual-culture/</link>
+      <link>https://rorimas.github.io/aree-di-studio/new-media-e-visual-culture/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/aree-di-studio/new-media-e-visual-culture/</guid>
+      <guid>https://rorimas.github.io/aree-di-studio/new-media-e-visual-culture/</guid>
       <description>&lt;p&gt;I nuovi media trasformano il modo in cui le immagini vengono prodotte, distribuite e interpretate. Video, modellazione 3D, realtà estesa e piattaforme connesse compongono un ambiente visuale continuo, nel quale i confini tra spazio fisico e digitale diventano sempre più permeabili.&lt;/p&gt;</description>
       
     </item>
     
     <item>
       <title>Sound art e media</title>
-      <link>http://localhost:1313/aree-di-studio/sound-art-e-media/</link>
+      <link>https://rorimas.github.io/aree-di-studio/sound-art-e-media/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/aree-di-studio/sound-art-e-media/</guid>
+      <guid>https://rorimas.github.io/aree-di-studio/sound-art-e-media/</guid>
       <description>&lt;p&gt;La Sound Art considera il suono come materia capace di modellare lo spazio, attivare la memoria e modificare la percezione. L’ascolto diventa uno strumento progettuale attraverso cui esplorare ambienti, corpi e tecnologie, oltre i confini tradizionali della composizione musicale.&lt;/p&gt;</description>
       
     </item>
