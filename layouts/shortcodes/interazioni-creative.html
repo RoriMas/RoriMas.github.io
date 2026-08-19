@@ -1,0 +1,26 @@
+<section id="interazioni-creative" class="interazioni-creative-section" style="background:#ececec;">
+  <div class="py-20">
+    <div class="section-heading creative-heading">
+      <h2>INTERAZIONI CREATIVE</h2>
+      <span aria-hidden="true"></span>
+    </div>
+
+    <div class="creative-grid">
+      {{ range first 5 (sort site.Data.interazioni_creative "order" "asc") }}
+        {{ $interaction := . }}
+        <a href="/interazioni-creative/{{ .id }}/" class="creative-link" aria-label="Scopri {{ .title }}">
+          {{ with .image }}
+            <img src="{{ . }}" alt="{{ $interaction.imageAlt }}" class="creative-image nozoom">
+          {{ else }}
+            <div class="creative-image creative-image-placeholder" role="img" aria-label="{{ .imageAlt }}">
+              <span>Immagine in arrivo</span>
+            </div>
+          {{ end }}
+          <p class="creative-title">{{ .title }}</p>
+        </a>
+      {{ end }}
+    </div>
+
+    <a class="creative-archive-button" href="/interazioni-creative/">Vedi tutte le interazioni creative <span aria-hidden="true">→</span></a>
+  </div>
+</section>

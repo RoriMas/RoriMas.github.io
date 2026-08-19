@@ -7,8 +7,6 @@ layout: "simple"
 
 {{< aree-studio >}}
 
-{{< progetti >}}
+{{< interazioni-creative >}}
 
 {{< docenti >}}
-
-{{< news >}}

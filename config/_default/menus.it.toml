@@ -16,16 +16,19 @@ pageRef = "docs"
 weight = 10
 
 [[main]]
+name = "Docenti"
+url = "/#docenti"
+weight = 20
+
+[[main]]
+name = "Interazioni creative"
+url = "/#interazioni-creative"
+weight = 30
+
+[[main]]
 name = "Obiettivi formativi"
 pageRef = "docs/shortcodes"
 weight = 5
-
-[[main]]
-name = "Interazioni Creative"
-pageRef = "news-eventi"
-weight = 30
-
-
 
 #[[main]]
 #  name = "Test"
@@ -38,18 +41,3 @@ weight = 30
 #  pre = "mastodon"
 #  weight = 300
 #  url = "https://masto.ai/@blowfish"
-
-
-# -- Footer Menu --
-# The footer menu is displayed at the bottom of the page, just before
-# the copyright notice. Configure as per the main menu above.
-
-[[footer]]
-name = "Tags"
-pageRef = "tags"
-weight = 10
-
-[[footer]]
-name = "Autore"
-pageRef = "authors"
-weight = 20

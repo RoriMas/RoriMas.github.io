@@ -1,0 +1,117 @@
+[
+  {
+    "id": "evento-esempio",
+    "order": 1,
+    "title": "Nuova interazione creativa",
+    "subtitle": "Evento di esempio da personalizzare",
+    "type": "Evento",
+    "date": "Data da definire",
+    "location": "Luogo da definire",
+    "participants": "Partecipanti da definire",
+    "discipline": "Disciplina da definire",
+    "accent": "#00c2af",
+    "imageAlt": "Immagine in arrivo per la nuova interazione creativa",
+    "excerpt": "Questo contenuto di esempio è pronto per essere sostituito con il prossimo evento.",
+    "description": [
+      "Questa è una pagina di esempio creata per mostrare come verranno pubblicate le prossime Interazioni creative.",
+      "Titolo, immagine, data, luogo, partecipanti, discipline e descrizione potranno essere aggiornati intervenendo su un unico elemento dell’archivio dati."
+    ]
+  },
+  {
+    "id": "senseable",
+    "order": 6,
+    "title": "SENSEABLE — Summer School dello Stretto",
+    "subtitle": "Con Oriana Persico",
+    "type": "Summer school",
+    "date": "2–5 settembre 2024",
+    "location": "Accademia di Belle Arti e altri luoghi di Reggio Calabria",
+    "participants": "Oriana Persico; docenti Paola Bommarito e Giacomo Tufano",
+    "discipline": "Nuove tecnologie dell’arte",
+    "accent": "#ff4500",
+    "image": "/images/eventi/senseable.jpg",
+    "imageAlt": "SENSEABLE — Summer School dello Stretto",
+    "excerpt": "La prima edizione di SENSEABLE ha esplorato il rapporto tra arte, dati e immaginazione collettiva.",
+    "description": [
+      "La prima edizione di SENSEABLE — Summer School dello Stretto — condotta dall’artista Oriana Persico, ha esplorato il rapporto tra arte, dati e immaginazione collettiva.",
+      "A partire dalle ricerche del duo Iaconesi/Persico, il percorso ha introdotto i partecipanti alla pratica della DataMeditation, un rituale capace di generare nuove forme di empatia, conoscenza e connessione con il territorio."
+    ]
+  },
+  {
+    "id": "touchdesigner-andrew-quinn",
+    "order": 4,
+    "title": "TouchDesigner",
+    "subtitle": "Sviluppare con Andrew Quinn",
+    "type": "Incontro e workshop",
+    "date": "2–3 maggio 2025",
+    "location": "Aula Magna e P10",
+    "participants": "Andrew Quinn; docenti Matilde De Feo e Fabrizio Sebastiani",
+    "discipline": "Tecniche grafiche speciali e Progettazione multimediale",
+    "accent": "#00c2af",
+    "image": "/images/eventi/touchdesigner-andrew-quinn.png",
+    "imageAlt": "Workshop TouchDesigner con Andrew Quinn",
+    "excerpt": "Due giorni di progettazione e sviluppo di artefatti digitali sperimentali con TouchDesigner.",
+    "description": [
+      "Due giorni di progettazione e sviluppo di artefatti digitali con spirito spiccatamente sperimentale. Useremo TouchDesigner, software basato sulla programmazione procedurale per lo sviluppo di contenuti interattivi multimediali.",
+      "Sarà un’occasione preziosa per approfondire la conoscenza dell’ambiente grafico di programmazione TouchDesigner con uno dei massimi esperti del campo: l’artista multimediale Andrew Quinn."
+    ]
+  },
+  {
+    "id": "pratiche-visuali-post-digitali",
+    "order": 2,
+    "title": "Pratiche visuali post-digitali",
+    "subtitle": "Utilizzo della Generative AI per l’arte e il graphic design",
+    "type": "Workshop",
+    "date": "11–12 giugno 2026",
+    "location": "Aula P10",
+    "participants": "Giuseppe Guariniello; docenti Fabrizio Sebastiani e Monica Ferrara",
+    "discipline": "Tecniche grafiche speciali e Graphic design",
+    "accent": "#7c3aed",
+    "image": "/images/eventi/pratiche-visuali-post-digitali.jpg",
+    "imageAlt": "Pratiche visuali post-digitali",
+    "excerpt": "Un workshop dedicato all’uso consapevole della Generative AI nei processi creativi e nel graphic design.",
+    "description": [
+      "Guidati dal Design Director Giuseppe Guariniello, i partecipanti seguiranno un workflow realistico per la produzione di artefatti visivi attraverso l’uso strategico e funzionale di strumenti di Generative AI.",
+      "Il workshop integra intelligenza artificiale generativa e tecniche grafiche tradizionali, affrontando prompting, etica e copyright, casi studio, worldbuilding e workflow avanzati. L’obiettivo è fornire metodo e criteri per usare la Generative AI come amplificatore dell’idea, sviluppando autonomia creativa e consapevolezza professionale."
+    ]
+  },
+  {
+    "id": "forme-computazionali-della-rappresentazione",
+    "order": 3,
+    "title": "Forme computazionali della rappresentazione",
+    "subtitle": "Conversazione con Davide Quayola",
+    "type": "Incontro · 404 Human Not Found",
+    "date": "A.A. 2025–26",
+    "location": "ABARC · incontri prevalentemente online",
+    "participants": "Davide Quayola; docenti Giacomo Tufano, Paola Bommarito, Matilde De Feo e Francesca Ceccarelli",
+    "discipline": "Nuove tecnologie dell’arte",
+    "accent": "#8b5cf6",
+    "image": "/images/eventi/forme-computazionali-della-rappresentazione.png",
+    "imageAlt": "Forme computazionali della rappresentazione",
+    "excerpt": "Un dialogo su come arte, intelligenza artificiale e sistemi automatici stiano ridefinendo il concetto stesso di visione.",
+    "description": [
+      "Tra scansioni digitali, software custom e sculture robotiche, Quayola costruisce un dialogo continuo tra passato e contemporaneo, interrogando il modo in cui l’intelligenza artificiale e i sistemi automatici stanno modificando la percezione delle immagini, della materia e della memoria culturale.",
+      "Nel contesto di 404 Human Not Found, il suo lavoro diventa un punto di osservazione privilegiato per comprendere come arte e tecnologia stiano ridefinendo il concetto stesso di visione."
+    ]
+  },
+  {
+    "id": "countdown",
+    "order": 5,
+    "title": "COUNTDOWN",
+    "subtitle": "Azioni di contrasto agli stereotipi e alle discriminazioni di genere",
+    "type": "Evento",
+    "date": "25–26 novembre 2024",
+    "location": "25: Aula Magna; 26: Accademia–Arena dello Stretto",
+    "participants": "Patrizia Giancotti, docenti, performer, studentesse e studenti ABARC",
+    "discipline": "Comunicazione e didattica dell’arte, Cinema, Nuove tecnologie dell’arte e Pittura",
+    "accent": "#ff4500",
+    "image": "/images/eventi/countdown.png",
+    "imageAlt": "COUNTDOWN — iniziativa contro la violenza sulle donne",
+    "excerpt": "Una due giorni di eventi e linguaggi artistici contro la violenza sulle donne.",
+    "description": [
+      "In occasione della Giornata internazionale per l’eliminazione della violenza contro le donne, l’Accademia di Belle Arti di Reggio Calabria promuove una due giorni di eventi, azioni teatrali, filmati, proiezioni, reading, attività di sensibilizzazione, che si apre con la presentazione del video Countdown realizzato da studentesse e studenti su richiesta del MUR Ministero dell’Università e della Ricerca sul tema della violenza contro le donne.",
+      "L’iniziativa, ideata dall’antropologa Patrizia Giancotti docente in Accademia, sostenuta dal Direttore Piero Sacchetti, realizzata grazie alla collaborazione dei professori Davide Negro, Marcello Francolini, Domenico Michele Surace, Dario Condemi, del performer Dario Zema, delle studentesse e degli studenti delle scuole di Comunicazione e didattica dell’arte, Cinematografia e tecnologia per il cinema, Nuove tecnologie dell’arte, Pittura, vuole trattare il dramma del femminicidio e il problema sociale della violenza fisica e psicologica sulle donne attraverso la pluralità dei linguaggi dell’arte.",
+      "Il punto d’arrivo dell’intera manifestazione, che si conclude il 26 con un’azione teatrale in movimento dall’Accademia fino all’Arena dello Stretto, sarà la mostra fotografica a cielo aperto di Letizia Battaglia, che attraverso il suo lavoro e la sua esperienza di vita ha sempre denunciato con forza ogni tipo di prevaricazione e violenza contro le donne.",
+      "“Mi è sembrata un’occasione da cogliere al volo – dichiara Patrizia Giancotti, curatrice dell’evento – nessun’altra città d’Italia ha l’opportunità di unire il valore di una lotta così importante alla potenza delle immagini di Letizia Battaglia. Un anno fa ho portato la vita e l’opera della fotografa siciliana al centro del mio corso di antropologia, dopo aver realizzato un programma per Radio 3 proprio sulla sua celebre fotografia La bambina con il pallone, paragonandola alla dea Atena. Non potevo neppure immaginare che oggi si sarebbero trovate l’una davanti all’altra, sotto lo stesso cielo dello Stretto.”"
+    ]
+  }
+]

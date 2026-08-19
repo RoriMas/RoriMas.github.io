@@ -1,0 +1,47 @@
+{{ define "main" }}
+{{ .Scratch.Set "scope" "single" }}
+{{ $matches := where site.Data.interazioni_creative "id" .Params.interactionId }}
+{{ $interaction := index $matches 0 }}
+
+<article class="creative-interaction-page">
+  <header class="creative-interaction-header">
+    {{ if .Params.showBreadcrumbs | default (.Site.Params.article.showBreadcrumbs | default false) }}
+      {{ partial "breadcrumbs.html" . }}
+    {{ end }}
+    <p class="creative-interaction-kicker">Interazione creativa</p>
+    <h1>{{ $interaction.title | emojify }}</h1>
+    <span aria-hidden="true"></span>
+  </header>
+
+  {{ with $interaction.image }}
+    <img src="{{ . }}" alt="{{ $interaction.imageAlt }}" class="creative-interaction-image nozoom" loading="eager">
+  {{ else }}
+    <div class="creative-interaction-image creative-interaction-image-placeholder creative-image-placeholder" role="img" aria-label="{{ $interaction.imageAlt }}">
+      <span>Immagine in arrivo</span>
+    </div>
+  {{ end }}
+
+  <dl class="creative-interaction-info">
+    {{ with $interaction.date }}
+      <div><dt>Data</dt><dd>{{ . }}</dd></div>
+    {{ end }}
+    {{ with $interaction.location }}
+      <div><dt>Luogo</dt><dd>{{ . }}</dd></div>
+    {{ end }}
+    {{ with $interaction.participants }}
+      <div><dt>Partecipanti</dt><dd>{{ . }}</dd></div>
+    {{ end }}
+    {{ with $interaction.discipline }}
+      <div><dt>Discipline</dt><dd>{{ . }}</dd></div>
+    {{ end }}
+  </dl>
+
+  <div class="creative-interaction-content">
+    <p class="creative-interaction-type">{{ $interaction.type }}</p>
+    {{ with $interaction.subtitle }}<h2>{{ . }}</h2>{{ end }}
+    {{ range $interaction.description }}<p>{{ . }}</p>{{ end }}
+  </div>
+
+  <a class="study-area-back" href="/#interazioni-creative"><span aria-hidden="true">←</span> Torna a Interazioni creative</a>
+</article>
+{{ end }}

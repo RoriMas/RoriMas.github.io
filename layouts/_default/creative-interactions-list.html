@@ -1,0 +1,40 @@
+{{ define "main" }}
+{{ .Scratch.Set "scope" "list" }}
+{{ $interactions := sort site.Data.interazioni_creative "order" "asc" }}
+
+<article class="creative-archive-page">
+  <header class="creative-interaction-header">
+    {{ if .Params.showBreadcrumbs | default (.Site.Params.list.showBreadcrumbs | default false) }}
+      {{ partial "breadcrumbs.html" . }}
+    {{ end }}
+    <p class="creative-interaction-kicker">Biennio in Arte Generativa</p>
+    <h1>{{ .Title }}</h1>
+    <span aria-hidden="true"></span>
+    <p class="creative-archive-intro">Eventi, workshop, incontri e attività che mettono in relazione arte, ricerca e tecnologie contemporanee.</p>
+  </header>
+
+  <section class="creative-archive-grid" aria-label="Archivio delle Interazioni creative">
+    {{ range $interactions }}
+      {{ $interaction := . }}
+      <a href="/interazioni-creative/{{ .id }}/" class="creative-archive-card" style="--creative-accent: {{ .accent }};">
+        {{ with .image }}
+          <img src="{{ . }}" alt="{{ $interaction.imageAlt }}" class="creative-archive-image nozoom">
+        {{ else }}
+          <div class="creative-archive-image creative-image-placeholder" role="img" aria-label="{{ .imageAlt }}">
+            <span>Immagine in arrivo</span>
+          </div>
+        {{ end }}
+        <div class="creative-archive-copy">
+          <div class="creative-archive-meta"><span>{{ .type }}</span><span>{{ .date }}</span></div>
+          <h2>{{ .title }}</h2>
+          {{ with .subtitle }}<p class="creative-archive-subtitle">{{ . }}</p>{{ end }}
+          {{ with .excerpt }}<p class="creative-archive-excerpt">{{ . }}</p>{{ end }}
+          <span class="creative-archive-action">Scopri l’interazione <span aria-hidden="true">→</span></span>
+        </div>
+      </a>
+    {{ end }}
+  </section>
+
+  <a class="study-area-back" href="/#interazioni-creative"><span aria-hidden="true">←</span> Torna alla home</a>
+</article>
+{{ end }}
