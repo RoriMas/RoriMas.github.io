@@ -1667,6 +1667,40 @@ header,
   max-width: 9.9rem !important;
 }
 
+@media (max-width: 767px) {
+  .main-menu {
+    gap: 0.45rem;
+  }
+
+  .header-logo-group {
+    min-width: 0;
+    flex: 0 1 auto;
+    gap: 0.4rem;
+  }
+
+  .main-menu img.header-logo {
+    width: auto !important;
+    height: 2.75rem !important;
+    max-width: 7rem !important;
+    max-height: 2.75rem !important;
+  }
+
+  .main-menu img.header-logo-abarc {
+    max-width: 4.25rem !important;
+  }
+
+  #menu-button {
+    position: relative;
+    z-index: 40;
+    flex: 0 0 auto;
+  }
+
+  #menu-button > div:first-child .icon {
+    width: 1.5rem;
+    height: 1.5rem;
+  }
+}
+
 .main-menu a:hover,
 .main-menu a:focus,
 .main-menu .active>a {
