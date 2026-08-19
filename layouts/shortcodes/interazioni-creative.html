@@ -6,7 +6,7 @@
     </div>
 
     <div class="creative-grid">
-      {{ range first 5 (sort site.Data.interazioni_creative "order" "asc") }}
+      {{ range first 4 (sort site.Data.interazioni_creative "order" "asc") }}
         {{ $interaction := . }}
         <a href="/interazioni-creative/{{ .id }}/" class="creative-link" aria-label="Scopri {{ .title }}">
           {{ with .image }}

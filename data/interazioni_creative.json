@@ -1,20 +1,20 @@
 [
   {
-    "id": "evento-esempio",
+    "id": "programmatori-per-caso",
     "order": 1,
-    "title": "Nuova interazione creativa",
-    "subtitle": "Evento di esempio da personalizzare",
-    "type": "Evento",
-    "date": "Data da definire",
-    "location": "Luogo da definire",
-    "participants": "Partecipanti da definire",
-    "discipline": "Disciplina da definire",
+    "title": "Programmatori per caso",
+    "type": "Progetto",
+    "date": "25 agosto 2022",
+    "location": "Web",
+    "participants": "Giacomo Tufano e oltre 60 studenti",
+    "discipline": "Web Design · HTML, CSS e JavaScript",
     "accent": "#00c2af",
-    "imageAlt": "Immagine in arrivo per la nuova interazione creativa",
-    "excerpt": "Questo contenuto di esempio è pronto per essere sostituito con il prossimo evento.",
+    "image": "/images/eventi/programmatori-per-caso.png",
+    "imageAlt": "Presentazione del progetto Programmatori per caso",
+    "excerpt": "Un progetto nato per caso durante un corso di Web Design, tra HTML, CSS e JavaScript.",
     "description": [
-      "Questa è una pagina di esempio creata per mostrare come verranno pubblicate le prossime Interazioni creative.",
-      "Titolo, immagine, data, luogo, partecipanti, discipline e descrizione potranno essere aggiornati intervenendo su un unico elemento dell’archivio dati."
+      "È stata un’idea nata proprio per caso in un corso di Web Design, ed eccoci qua: i Programmatori per caso.",
+      "Formati come designer, ci siamo trovati a combattere con HTML, CSS e Javascript. In questo sito si trovano i risultati della nostra sofferenza del corso."
     ]
   },
   {

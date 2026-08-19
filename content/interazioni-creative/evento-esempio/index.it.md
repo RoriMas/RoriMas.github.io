@@ -1,10 +1,10 @@
 ---
-title: "Nuova interazione creativa"
-description: "Evento di esempio pronto per essere sostituito con il prossimo contenuto."
-url: "/interazioni-creative/evento-esempio/"
-aliases: ["/progetti/evento-esempio/"]
+title: "Programmatori per caso"
+description: "Un progetto nato per caso durante un corso di Web Design, tra HTML, CSS e JavaScript."
+url: "/interazioni-creative/programmatori-per-caso/"
+aliases: ["/interazioni-creative/evento-esempio/", "/progetti/evento-esempio/", "/progetti/programmatori-per-caso/"]
 layout: "creative-interaction"
-interactionId: "evento-esempio"
+interactionId: "programmatori-per-caso"
 showDate: false
 showAuthor: false
 showReadingTime: false
@@ -15,4 +15,3 @@ showRelatedContent: false
 sharingLinks: false
 showEdit: false
 ---
-
